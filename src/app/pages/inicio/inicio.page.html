@@ -1,0 +1,145 @@
+
+<ion-content [fullscreen]="true">
+
+  <img *ngIf="comecou == true" (click)="voltarMenu()" src="../../assets/imagens/voltar.png"
+    style="left: 0; margin-left: 5%; top: 0;margin-top: 5%;" width="10%" alt="Voltar para o inicio">
+
+    <div *ngIf="comecou == false">
+    <p style="font-family: cursive;font-size: xx-large; text-align: center;">
+      Perguntas bíblicas
+    </p>
+    <img  src="../../assets/imagens/quiz.png"
+      style="text-align: center !important; width: 80%;display: block;margin-left: auto;margin-right: auto;" alt="Quiz">
+    <img src="../../assets/imagens/jesus.png"
+      style="text-align: center !important; width: 80%;display: block;margin-left: auto;margin-right: auto;"
+      alt="Eu sou o caminho a verdade e a vida">
+    <br>
+    <img (click)="vaiComecar()" src="../../assets/imagens/start.png"
+      style="text-align: center !important; width: 80%;display: block;margin-left: auto;margin-right: auto; bottom: 0; margin-bottom: 5% !important;"
+      alt="Eu sou o caminho a verdade e a vida">
+  </div>
+
+
+  <div style="background: transparent; margin-top: 20%;" *ngIf="comecou == true">
+    <ion-grid style="margin-top: 20% !important;">
+      <ion-row>
+        <ion-col>
+          <ion-label style="text-align: start; margin-left: 5%;">
+            Dificuldade:
+          </ion-label>
+        </ion-col>
+
+        <ion-col  style=" margin-right: 5%;text-align: end;">
+          <ion-label *ngIf="dificuldade == 'FÁCIL'" style="-webkit-text-stroke-width: 0.5px;font-size: large;-webkit-text-stroke-color: #000;font-weight: bold; color: rgb(0, 213, 0); text-align: end;">
+            {{dificuldade}}
+          </ion-label>
+          <ion-label *ngIf="dificuldade == 'DIFÍCIL'" style="-webkit-text-stroke-width: 0.5px;font-size: large;-webkit-text-stroke-color: #000;font-weight: bold; color: red; text-align: end;">
+            {{dificuldade}}
+          </ion-label>
+          <ion-label *ngIf="dificuldade == 'MÉDIA'" style="-webkit-text-stroke-width: 0.5px;font-size: large;-webkit-text-stroke-color: #000;font-weight: bold; color: yellow; text-align: end;">
+            {{dificuldade}}    
+          </ion-label>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+
+    <p style="text-align: center; margin: 5%; font-weight: bold;">{{pergunta}}</p>
+    <br>
+    <ion-radio-group [allowEmptySelection]="true" color="transparent" [(ngModel)]="respostaUsuario">
+      <ion-item color="transparent" lines="none">
+        <p>{{a}}</p>
+        <ion-radio slot="end" value="a"></ion-radio>
+      </ion-item>
+      <br>
+      <ion-item color="transparent" lines="none">
+        <p>{{b}}</p>
+        <ion-radio slot="end" value="b"></ion-radio>
+      </ion-item>
+      <br>
+      <ion-item color="transparent" lines="none">
+        <p>{{c}}</p>
+        <ion-radio slot="end" value="c"></ion-radio>
+      </ion-item>
+    </ion-radio-group>
+
+    <ion-grid>
+      <ion-row>
+        <ion-col size = "2">
+        </ion-col>
+        <ion-col size = "8">
+          <ion-button (click)="responderPergunta()" [disabled]="botaoConfirmar" fill="outline" expand="block">Confirmar</ion-button>
+        </ion-col>
+        
+        <ion-col size = "2">
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <ng-container *ngIf="mostrar">
+    <div class="modal">
+      <p style="font-family: cursive; text-align: justify;">
+        Nos ajude a espalhar a palavra do Senhor ...
+      </p>
+      <img src="../../assets/imagens/jeuss-amor.png" style="text-align: center !important; width: 80%;display: block;margin-left: auto;margin-right: auto;" alt="Deus é amor">
+      <p style="font-family: cursive; text-align: justify;">
+        <a (click)="compartilhar()">Clique aqui</a> e compartilhe com familiares ou amigos.
+      </p>
+      <ng-content></ng-content>
+    </div>
+    <div (click)="toggle()" class="overlay"></div>
+  </ng-container>
+</ion-content>
+
+
+<ion-footer class="ion-no-border" *ngIf="comecou == true">
+  <ion-toolbar>
+    <ion-title>
+      <p>
+        Respostas Corretas:
+
+        <label style="right: 0 !important; position: absolute; margin-right: 5%;">
+          {{questoesAcertadas}}/{{questoesRealizadas}}.
+        </label>
+      </p>
+    </ion-title>
+  </ion-toolbar>
+</ion-footer>
+
+<!--
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      ADMOB IONIC 5
+    </ion-title>
+  </ion-toolbar>
+  <ion-header [translucent]="true">
+    <ion-toolbar>
+      <ion-title>
+        ADMOB IONIC 5
+      </ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content [fullscreen]="true">
+    <ion-text>Anúncios Admob</ion-text>
+    <ion-row>
+      <ion-col size="6">
+        <ion-button color="primary" (click)="Interstitial()">INTERSTITAL</ion-button>
+      </ion-col>
+      <ion-col size="6">
+        <ion-button color="secondary" (click)="Reward()">REWARDVIDEO</ion-button>
+      </ion-col>
+    </ion-row>
+  </ion-content>
+-->

@@ -1,0 +1,2903 @@
+[
+    {
+        "id": 0,
+        "pergunta": "A quem Paulo chamou de 'meu companheiro de lutas'?",
+        "a": "Apolo.",
+        "b": "Arquipo.",
+        "c": "áfia.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "à irmã Áfia, a Arquipo, nosso companheiro de lutas, e à igreja que se reúne com você em sua casa:<br>Filemom 1:2."
+    },
+    {
+        "id": 1,
+        "pergunta": "Quantas pragas foram enviadas ao Egito?",
+        "a": "7 Pragas.",
+        "b": "10 Pragas.",
+        "c": "3 Pragas.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "<br>Êxodo capítulo 7 ao 10."
+    },
+    {
+        "id": 2,
+        "pergunta": "Quem foi lançado na cova dos leões?",
+        "a": "Paulo.",
+        "b": "José.",
+        "c": "Daniel.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Então o rei deu ordens, e eles trouxeram Daniel e o jogaram na cova dos leões. O rei, porém, disse a Daniel: 'Que o seu Deus, a quem você serve continuamente, o livre!'<br>Daniel 6:16."
+    },
+    {
+        "id": 3,
+        "pergunta": "Qual instrumento Davi gostava de tocar?",
+        "a": "Tambor.",
+        "b": "Harpa.",
+        "c": "Flauta.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Sempre que o espírito mandado por Deus se apoderava de Saul, Davi apanhava sua harpa e tocava. Então Saul sentia alívio e melhorava, e o espírito maligno o deixava.<br>1 Samuel 16:23."
+    },
+    {
+        "id": 4,
+        "pergunta": "Quando Jesus nasceu, onde Ele foi colocado?",
+        "a": "Foi colocado numa cama.",
+        "b": "Foi colocado numa manjedoura.",
+        "c": "Foi colocado em um trono.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Então correram para lá e encontraram Maria e José e o bebê deitado na manjedoura.<br>Lucas 2:16."
+    },
+    {
+        "id": 5,
+        "pergunta": "Quando a mulher com fluxo de sangue tocou nas vestes de Jesus, no que ela pensava?",
+        "a": "'Se eu tão somente tocar em seu manto, ficarei curada'.",
+        "b": "'Tenho que chamar a atenção de Jesus para ser curada'.",
+        "c": "'Tenho que interromper o caminho de Jesus'.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Nisso uma mulher que havia doze anos vinha sofrendo de hemorragia, chegou por trás dele e tocou na borda do seu manto, pois dizia a si mesma: 'Se eu tão somente tocar em seu manto, ficarei curada'. Voltando-se, Jesus a viu e disse: 'Ânimo, filha, a sua fé a curou!' E desde aquele instante a mulher ficou curada.<br>Mateus 9:20-22."
+    },
+    {
+        "id": 6,
+        "pergunta": "Na parábola do semeador, quais sementes que cresceram e deram uma boa colheita?",
+        "a": "As sementes que caíram nas pedras.",
+        "b": "As sementes que caíram em boa terra.",
+        "c": "As sementes que caíram entre os espinhos.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "E quanto à semente que caiu em boa terra, esse é o caso daquele que ouve a palavra e a entende, e dá uma colheita de cem, sessenta e trinta por um'.<br>Mateus 13:23."
+    },
+    {
+        "id": 7,
+        "pergunta": "Jesus comparou o Reino de Deus a qual semente?",
+        "a": "Ao grão de mostarda.",
+        "b": "Ao grão de milho.",
+        "c": "A semente de uva.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "E contou-lhes outra parábola: 'O Reino dos céus é como um grão de mostarda que um homem plantou em seu campo. Embora seja a menor entre todas as sementes, quando cresce, torna-se uma das maiores plantas e atinge a altura de uma árvore, de modo que as aves do céu vêm fazer os seus ninhos em seus ramos'.<br>Mateus 13:31-32."
+    },
+    {
+        "id": 8,
+        "pergunta": "Quem são conhecidos como os patriarcas na Bíblia?",
+        "a": "Jesus, Maria e José.",
+        "b": "Pedro, João e Tiago.",
+        "c": "Abraão, Isaque e Jacó.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Disse ainda: 'Eu sou o Deus de seu pai, o Deus de Abraão, o Deus de Isaque, o Deus de Jacó'. Então Moisés cobriu o rosto, pois teve medo de olhar para Deus.<br>Êxodo 3:6."
+    },
+    {
+        "id": 9,
+        "pergunta": "Quem ensinou os discípulos a oração do 'Pai nosso'?",
+        "a": "Os fariseus.",
+        "b": "Jesus.",
+        "c": "Paulo.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Vocês, orem assim: 'Pai nosso, que estás nos céus! Santificado seja o teu nome...<br>Mateus 6:9."
+    },
+    {
+        "id": 10,
+        "pergunta": "Quem foi o 'assistente' do profeta Elias?",
+        "a": "Eliseu.",
+        "b": "Enoque.",
+        "c": "Jonas.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Então Elias saiu de lá e encontrou Eliseu, filho de Safate. Ele estava arando com doze parelhas de bois e conduzindo a décima segunda parelha. Elias o alcançou e lançou sua capa sobre ele.<br>1 Reis 19:19."
+    },
+    {
+        "id": 11,
+        "pergunta": "Na transfiguração, quem apareceu ao lado de Jesus?",
+        "a": "Enoque e Elias.",
+        "b": "Elias e Moisés.",
+        "c": "Abraão e Isaque.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Enquanto orava, a aparência de seu rosto se transformou, e suas roupas ficaram alvas e resplandecentes como o brilho de um relâmpago. Surgiram dois homens que começaram a conversar com Jesus. Eram Moisés e Elias.<br>Lucas 9:29-30."
+    },
+    {
+        "id": 12,
+        "pergunta": "Qual é o último capítulo da Bíblia?",
+        "a": "Apocalipse 22.",
+        "b": "Apocalipse 16.",
+        "c": "Malaquias 4.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "<br>Apocalipse 22."
+    },
+    {
+        "id": 13,
+        "pergunta": "Qual desses nomes não era profeta?",
+        "a": "Ezequiel.",
+        "b": "Davi.",
+        "c": "Jeremias.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Davi tinha trinta anos de idade quando começou a reinar e reinou durante quarenta anos. Em Hebrom, reinou sobre Judá sete anos e meio e, em Jerusalém, reinou sobre todo o Israel e Judá trinta e três anos.<br>2 Samuel 5:4-5."
+    },
+    {
+        "id": 14,
+        "pergunta": "Quem era os gentios na Bíblia?",
+        "a": "Eram os judeus.",
+        "b": "Eram religiosos.",
+        "c": "Eram os 'não judeus'.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Deus é Deus apenas dos judeus? Ele não é também o Deus dos gentios? Sim, dos gentios também,<br>Romanos 3:29."
+    },
+    {
+        "id": 15,
+        "pergunta": "O que aconteceu quando Paulo e Silas louvavam na prisão?",
+        "a": "Houve um terremoto na prisão e todas as portas se abriram!.",
+        "b": "Os saldados pediram para que os dois se calassem.",
+        "c": "Os dois foram agredidos pelos outros prisioneiros.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Por volta da meia-noite, Paulo e Silas estavam orando e cantando hinos a Deus; os outros presos os ouviam. De repente, houve um terremoto tão violento que os alicerces da prisão foram abalados. Imediatamente todas as portas se abriram, e as correntes de todos se soltaram.<br>Atos 16:25-26."
+    },
+    {
+        "id": 16,
+        "pergunta": "Quem era a mãe de Samuel?",
+        "a": "Isabel.",
+        "b": "Maria.",
+        "c": "Ana.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Assim Ana engravidou e, no devido tempo, deu à luz um filho. E deu-lhe o nome de Samuel, dizendo: 'Eu o pedi ao Senhor'.<br>1 Samuel 1:20."
+    },
+    {
+        "id": 17,
+        "pergunta": "Quem a Bíblia diz que foi pior que todos os reis de Israel?",
+        "a": "Saul.",
+        "b": "Acabe.",
+        "c": "Salomão.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "No templo de Baal, que ele mesmo tinha construído em Samaria, Acabe ergueu um altar para Baal. Fez também um poste sagrado. Ele provocou a ira do Senhor, o Deus de Israel, mais do que todos os reis de Israel antes dele.<br>1 Reis 16:32-33."
+    },
+    {
+        "id": 18,
+        "pergunta": "Quem era a mãe de Ismael, filho de Abraão?",
+        "a": "Sara.",
+        "b": "Sete.",
+        "c": "Hagar.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Hagar teve um filho de Abrão, e este lhe deu o nome de Ismael.<br>Gênesis 16:15."
+    },
+    {
+        "id": 19,
+        "pergunta": "Quem é chamado na Bíblia como o 'Príncipe da Paz'?",
+        "a": "Lúcifer.",
+        "b": "Miguel.",
+        "c": "Jesus.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Porque um menino nos nasceu, um filho nos foi dado, e o governo está sobre os seus ombros. E ele será chamado Maravilhoso Conselheiro, Deus Podero­so, Pai Eterno, Príncipe da Paz.<br>Isaías 9:6."
+    },
+    {
+        "id": 20,
+        "pergunta": "Quando Moisés foi colocado num cesto e lançado no rio, quem o encontrou?",
+        "a": "A rainha de Sabá.",
+        "b": "A filha do faraó.",
+        "c": "Joquebede.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "A filha do faraó descera ao Nilo para tomar banho. Enquanto isso, as suas servas an­davam pela margem do rio. Nisso viu o cesto entre os juncos e mandou sua criada apanhá-lo. Ao abri-lo, viu um bebê chorando. Ficou com pena dele e disse: 'Este menino é dos hebreus'.<br>Êxodo 2:5-6."
+    },
+    {
+        "id": 21,
+        "pergunta": "Quem foi o imperador da Babilônia?",
+        "a": "Jeocaz.",
+        "b": "Nabucodonosor.",
+        "c": "Faraó.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Durante o reinado de Jeoaquim, Nabucodonosor, rei da Babilônia, invadiu o país, e Jeoaquim tornou-se seu vassalo por três anos. Então ele voltou atrás e rebelou-se contra Nabucodonosor. O Senhor enviou contra ele tropas babilônicas, aramaicas, moabitas e amonitas para destruir Judá, de acordo com a palavra do Senhor proclamada por seus servos, os profetas.<br>2 Reis 24:1-2."
+    },
+    {
+        "id": 22,
+        "pergunta": "Quem negou Jesus 3 vezes?",
+        "a": "Judas.",
+        "b": "Pedro.",
+        "c": "André.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "E logo o galo cantou pela segunda vez. Então Pedro se lembrou da palavra que Jesus lhe tinha dito: 'Antes que duas vezes cante o galo, você me negará três vezes'. E se pôs a chorar.<br>Marcos 14:72."
+    },
+    {
+        "id": 23,
+        "pergunta": "Como morreu Judas?",
+        "a": "Assassinado.",
+        "b": "Acidente.",
+        "c": "Suicídio.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Então Judas jogou o dinheiro dentro do templo e, saindo, foi e enforcou-se.<br>Mateus 27:5."
+    },
+    {
+        "id": 24,
+        "pergunta": "Quantos discípulos tinha Jesus?",
+        "a": "3.",
+        "b": "10.",
+        "c": "12.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Chamando seus doze discípulos, deu-lhes autoridade para expulsar espíritos imundos e curar todas as doenças e enfermidades.<br>Mateus 10:1."
+    },
+    {
+        "id": 25,
+        "pergunta": "Sadraque, Mezaque e Abedenego foram jogados aonde?",
+        "a": "Na cova dos leões.",
+        "b": "Na fornalha.",
+        "c": "No Coliseu.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "A ordem do rei era urgente e a fornalha estava tão quente que as chamas mataram os soldados que levaram Sadraque, Mesaque e Abede-Nego, e estes caíram amarrados dentro da fornalha em chamas.<br>Daniel 3:19-23."
+    },
+    {
+        "id": 26,
+        "pergunta": "Qual foi o primeiro nome de Abraão?",
+        "a": "Israel.",
+        "b": "Abrão.",
+        "c": "Adão.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Não será mais cha­mado Abrão; seu nome será Abraão, porque eu o constituí pai de muitas nações.<br>Gênesis 17:5."
+    },
+    {
+        "id": 27,
+        "pergunta": "Quanto tempo durou a chuva do dilúvio?",
+        "a": "7 dias e 7 noites.",
+        "b": "40 dias e 40 noites.",
+        "c": "3 dias e 3 noites.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Quarenta dias durou o Dilúvio, e as águas aumentaram e elevaram a arca acima da terra.<br>Gênesis 7:17."
+    },
+    {
+        "id": 28,
+        "pergunta": "Qual o nome do anjo que apareceu a Maria, mãe de Jesus?",
+        "a": "Rafael.",
+        "b": "Miguel.",
+        "c": "Gabriel.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "No sexto mês Deus enviou o anjo Gabriel a Nazaré, cidade da Galileia,a uma virgem prometida em casamento a certo homem chamado José, descendente de Davi. O nome da virgem era Maria. <br>Lucas 1:26-27."
+    },
+    {
+        "id": 29,
+        "pergunta": "Quais destes nomes não é mencionado na Bíblia?",
+        "a": "Caio.",
+        "b": "Tiago.",
+        "c": "Filipe.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Caio."
+    },
+    {
+        "id": 30,
+        "pergunta": "Quantos pães e peixes Jesus utilizou para multiplicar e alimentar a multidão?",
+        "a": "5 Pães e 2 Peixes.",
+        "b": "7 Pães e 7 Peixes.",
+        "c": "8 Pães e 1 Peixe.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Eles lhe disseram: 'Tudo o que temos aqui são cinco pães e dois peixes'.<br>Mateus 14:17."
+    },
+    {
+        "id": 31,
+        "pergunta": "Quem ajudou Jesus a carregar a cruz?",
+        "a": "João.",
+        "b": "Simão Cirineu.",
+        "c": "Timóteo.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Certo homem de Cirene, chamado Simão, pai de Alexandre e de Rufo, passava por ali, chegando do campo. Eles o forçaram a carregar a cruz.<br>Marcos 15:21."
+    },
+    {
+        "id": 32,
+        "pergunta": "Antes de ser Rei, qual era o trabalho de Davi?",
+        "a": "Caçador.",
+        "b": "Pastor de ovelhas.",
+        "c": "Carpinteiro.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Davi, entretanto, disse a Saul: 'Teu servo toma conta das ovelhas de seu pai. Quando aparece um leão ou um urso e leva uma ovelha do rebanho,<br>1 Samuel 17:34-35."
+    },
+    {
+        "id": 33,
+        "pergunta": "Quem perseguiu Davi?",
+        "a": "Faraó.",
+        "b": "Nabucodonosor.",
+        "c": "Saul.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Daí em diante Saul olhava com inveja para Davi.<br>1 Samuel 18:9."
+    },
+    {
+        "id": 34,
+        "pergunta": "Em que cidade nasceu Jesus?",
+        "a": "Jerusalém.",
+        "b": "Belém.",
+        "c": "Samaria.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Depois que Jesus nasceu em Belém da Judeia, nos dias do rei Herodes, magos vindos do oriente chegaram a Jerusalém<br>Mateus 2:1."
+    },
+    {
+        "id": 35,
+        "pergunta": "O que a mulher de Samaria saiu para fazer?",
+        "a": "Tirar água.",
+        "b": "Caçar.",
+        "c": "Colher trigo.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "<Nisso veio uma mulher samaritana tirar água. Disse-lhe Jesus: 'Dê-me um pouco de água'.br>João 4:6-7."
+    },
+    {
+        "id": 36,
+        "pergunta": "Depois que Pedro negou a Jesus pela terceira vez.",
+        "a": "o véu do templo se rasgou.",
+        "b": "o céu ficou em trevas.",
+        "c": "o galo cantou.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Aí ele começou a lançar maldições e a jurar: 'Não conheço esse homem!' Imediatamente um galo cantou.<br>Mateus 26:74."
+    },
+    {
+        "id": 37,
+        "pergunta": "Sansão se apaixonou por qual mulher?",
+        "a": "Rute.",
+        "b": "Dalila.",
+        "c": "Sara.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Depois dessas coisas, ele se apaixonou por uma mulher do vale de Soreque, chamada Dalila.<br>Juízes 16:4."
+    },
+    {
+        "id": 38,
+        "pergunta": "Eliseu sucedeu a qual profeta?",
+        "a": "Zacarias.",
+        "b": "João Batista.",
+        "c": "Elias.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Quando os discípulos dos profetas, vindos de Jericó, viram isso, disseram: 'O espírito profético de Elias repousa sobre Eliseu'. Então foram ao seu encontro, prostraram-se diante dele e disseram:<br>2 Reis 2:15."
+    },
+    {
+        "id": 39,
+        "pergunta": "Quem não foi Apóstolo?",
+        "a": "Pedro.",
+        "b": "Isaías.",
+        "c": "João.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Visão que Isaías, filho de Amoz, teve a respeito de Judá e Jerusalém durante os reinados de Uzias, Jotão, Acaz e Ezequias, reis de Judá.<br>Isaías 1:1."
+    },
+    {
+        "id": 40,
+        "pergunta": "Quem escreveu Cantares?",
+        "a": "Davi.",
+        "b": "Moisés.",
+        "c": "Salomão.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Cântico dos Cânticos de Salomão.<br>Cânticos 1:1."
+    },
+    {
+        "id": 41,
+        "pergunta": "Quem foi governador do Egito?",
+        "a": "Moisés.",
+        "b": "José.",
+        "c": "Ismael.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "José era o governador do Egito e era ele que ven­dia trigo a todo o povo da terra. Por isso, quan­do os irmãos de José chegaram, cur­varam-se diante dele com o rosto em terra.<br>Gênesis 42:6."
+    },
+    {
+        "id": 42,
+        "pergunta": "Quem pediu para andar nas águas com Jesus?",
+        "a": "Pedro.",
+        "b": "Tiago.",
+        "c": "João.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "'Senhor', disse Pedro, 'se és tu, manda-me ir ao teu encontro por sobre as águas'. 'Venha', respondeu ele. Então Pedro saiu do barco, andou sobre as águas e foi na direção de Jesus.<br>Mateus 14:28-29."
+    },
+    {
+        "id": 43,
+        "pergunta": "Lázaro foi ressuscitado depois de quantos dias?",
+        "a": "10.",
+        "b": "1.",
+        "c": "4.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Jesus, outra vez profundamente comovido, foi até o sepulcro. Era uma gruta com uma pedra colocada à entrada. 'Tirem a pedra', disse ele. Disse Marta, irmã do morto: 'Senhor, ele já cheira mal, pois já faz quatro dias'.<br>João 11:38-39."
+    },
+    {
+        "id": 44,
+        "pergunta": "Qual foi o primeiro nome do Apóstolo Paulo?",
+        "a": "Saulo.",
+        "b": "Tiago.",
+        "c": "Barnabé.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Ele caiu por terra e ouviu uma voz que lhe dizia: 'Saulo, Saulo, por que você me persegue?' Saulo perguntou: 'Quem és tu, Senhor?' Ele respondeu: 'Eu sou Jesus, a quem você persegue.<br>Atos 9:4-5."
+    },
+    {
+        "id": 45,
+        "pergunta": "Quanto tempo o povo hebreu ficou no deserto?",
+        "a": "4 dias.",
+        "b": "40 dias.",
+        "c": "40 anos.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "'Pois o Senhor, o seu Deus, os tem abençoado em tudo o que vocês têm feito. Ele cuidou de vocês em sua jornada por este grande deserto. Nestes quarenta anos o Senhor, o seu Deus, tem estado com vocês, e não tem faltado coisa alguma a vocês.<br>Deuteronômio 2:7."
+    },
+    {
+        "id": 46,
+        "pergunta": "Quem escreveu o livro de Lamentações?",
+        "a": "Zacarias.",
+        "b": "Elias.",
+        "c": "Jeremias.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "jeremias."
+    },
+    {
+        "id": 47,
+        "pergunta": "O que quer dizer 'Rabi'?",
+        "a": "Rei.",
+        "b": "Pai.",
+        "c": "Mestre.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Voltando-se e vendo Jesus que os dois o seguiam, perguntou-lhes: 'O que vocês querem?' Eles disseram: 'Rabi' (que significa 'Mestre'), 'onde estás hospedado?'<br>João 1:38."
+    },
+    {
+        "id": 48,
+        "pergunta": "Qual era o ofício de José, pai de Jesus?",
+        "a": "Pescador.",
+        "b": "Cobrador de impostos.",
+        "c": "Carpinteiro.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Não é este o filho do carpinteiro? O nome de sua mãe não é Maria, e não são seus irmãos Tiago, José, Simão e Judas?<br>Mateus 13:55."
+    },
+    {
+        "id": 49,
+        "pergunta": "'Aquele que está em Cristo nova criatura é; as coisas velhas já passaram;...'",
+        "a": "'...eis que passaram da morte para a vida.'.",
+        "b": "'...eis que já ressuscitou dos mortos.'.",
+        "c": "'...eis que tudo se fez novo.'.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Portanto, se alguém está em Cristo, é nova criação. As coisas antigas já passaram; eis que surgiram coisas novas!<br>2 Coríntios 5:17."
+    },
+    {
+        "id": 50,
+        "pergunta": "Quais são os dois grandes mandamentos destacados por Jesus?",
+        "a": "Não matarás / Amarás o Senhor teu Deus de todo o teu coração.",
+        "b": "Amarás o Senhor teu Deus de todo o teu coração / Amarás ao teu próximo como a ti mesmo.",
+        "c": "Não cobiçarás (seus servos, animais, ou coisa alguma que lhe pertença) / Não matarás.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Respondeu Jesus: 'Ame o Senhor, o seu Deus de todo o seu coração, de toda a sua alma e de todo o seu entendimento'. Este é o primeiro e maior mandamento. E o segundo é semelhante a ele: 'Ame o seu próximo como a si mesmo'.<br>Mateus 22:37-39."
+    },
+    {
+        "id": 51,
+        "pergunta": "Qual foi o primeiro milagre de Jesus?",
+        "a": "A transformação da água em vinho.",
+        "b": "A ressurreição de Lázaro.",
+        "c": "A multiplicação dos pães e peixes.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Disse Jesus aos serviçais: 'Encham os potes com água'. E os encheram até a borda. Então lhes disse: 'Agora, levem um pouco ao encarregado da festa'. Eles assim fizeram,<br>..Este sinal milagroso, em Caná da Galileia, foi o primeiro que Jesus realizou. Revelou assim a sua glória, e os seus discípulos creram nele.<br>João 2:7-8 e João 2:11 respectivamente."
+    },
+    {
+        "id": 52,
+        "pergunta": "Quem escreveu o livro de Apocalipse?",
+        "a": "Moisés.",
+        "b": "João.",
+        "c": "Paulo.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Revelação de Jesus Cristo, que Deus lhe deu para mostrar aos seus servos o que em breve há de acontecer. Ele enviou o seu anjo para torná-la conhecida ao seu servo João,<br>Apocalipse 1:1."
+    },
+    {
+        "id": 53,
+        "pergunta": "Quem foi arrebatado por Deus e não viu a morte?",
+        "a": "Enoque.",
+        "b": "Jó.",
+        "c": "Matusalém.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Enoque andou com Deus; e já não foi encontrado, pois Deus o havia arrebatado.<br>Gênesis 5:24."
+    },
+    {
+        "id": 54,
+        "pergunta": "Qual o nome do lugar onde habitavam Adão e Eva?",
+        "a": "Jardim Suspenso.",
+        "b": "Torre de Babel.",
+        "c": "Jardim do éden.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Ora, o Senhor Deus tinha plantado um jardim no Éden, para os lados do leste, e ali co­locou o homem que formara.<br>Gênesis 2:8."
+    },
+    {
+        "id": 55,
+        "pergunta": "Qual profeta foi engolido por um grande peixe?",
+        "a": "Malaquias.",
+        "b": "Jonas.",
+        "c": "Elias.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "O Senhor fez com que um grande peixe engolisse Jonas, e ele ficou dentro do peixe três dias e três noites.<br>Jonas 1:17."
+    },
+    {
+        "id": 56,
+        "pergunta": "Quem subiu na árvore para ver Jesus passar?",
+        "a": "Ananias.",
+        "b": "Tadeu.",
+        "c": "Zaqueu.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Quando Jesus chegou àquele lugar, olhou para cima e lhe disse: 'Zaqueu, desça depressa. Quero ficar em sua casa hoje'.<br>Lucas 19:2-5."
+    },
+    {
+        "id": 57,
+        "pergunta": "Qual foi o Apóstolo que ficou temporariamente cego?",
+        "a": "Tiago.",
+        "b": "Paulo.",
+        "c": "Pedro.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Saulo levantou-se do chão e, abrindo os olhos, não conseguia ver nada. E os homens o levaram pela mão até Damasco.<br>Atos 9:8."
+    },
+    {
+        "id": 58,
+        "pergunta": "Quem escreveu o Salmo 23?",
+        "a": "Salomão.",
+        "b": "Saul.",
+        "c": "Davi.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Davi."
+    },
+    {
+        "id": 59,
+        "pergunta": "Jesus curou 10 leprosos. Quantos voltaram para agradecer?",
+        "a": "10.",
+        "b": "1.",
+        "c": "3.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Um deles, quando viu que estava curado, voltou, louvando a Deus em alta voz.<br>Lucas 17:11-19."
+    },
+    {
+        "id": 60,
+        "pergunta": "Quem entrou na Terra Prometida?",
+        "a": "Noé.",
+        "b": "Moisés.",
+        "c": "Josué.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Co­mo prometi a Moisés, todo lugar onde puserem os pés eu darei a vocês.<br>Josué 1:3."
+    },
+    {
+        "id": 61,
+        "pergunta": "Quem foi colocado num cesto e lançado no rio ainda quando era bebê?",
+        "a": "Jesus.",
+        "b": "Jonas.",
+        "c": "Moisés.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Tendo o menino crescido, ela o levou à filha do faraó, que o adotou e lhe deu o nome de Moisés, dizendo: 'Porque eu o tirei das águas'.<br>Êxodo 2:10."
+    },
+    {
+        "id": 62,
+        "pergunta": "Quem foi companheiro de batalhas de Josué?",
+        "a": "Davi.",
+        "b": "Calebe.",
+        "c": "José.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "De todos os que foram observar a terra, somente Josué, filho de Num, e Calebe, filho de Jefoné, sobreviveram.<br>Números 14:38."
+    },
+    {
+        "id": 63,
+        "pergunta": "Quem derrotou Golias?",
+        "a": "Josué.",
+        "b": "Sansão.",
+        "c": "Davi.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Assim Davi venceu o filisteu com uma atiradeira e uma pedra; sem espada na mão, derrubou o filisteu e o matou.<br>1 Samuel 17:50."
+    },
+    {
+        "id": 64,
+        "pergunta": "Quem foi abandonado pelo seus irmãos e vendido?",
+        "a": "Davi.",
+        "b": "José.",
+        "c": "Arão.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Chegando José, seus irmãos lhe arranca­ram a túnica longa,<br>...Vamos vendê-lo aos ismaelitas. Não tocaremos nele, afinal é nosso irmão, é nosso próprio sangue'. E seus irmãos concordaram.<br>Gênesis 37:23 e Gênesis 37:27 respectivamente."
+    },
+    {
+        "id": 65,
+        "pergunta": "Quem subiu aos céus em uma carruagem de fogo?",
+        "a": "Enoque.",
+        "b": "Elias.",
+        "c": "Eliseu.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "De repente, enquanto caminhavam e conversavam, apareceu um carro de fogo puxado por cavalos de fogo que os separou, e Elias foi levado aos céus num redemoinho.<br>2 Reis 2:11."
+    },
+    {
+        "id": 66,
+        "pergunta": "Quem cantava na prisão com Paulo antes do terremoto?",
+        "a": "Silas.",
+        "b": "Pedro.",
+        "c": "João.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Por volta da meia-noite, Paulo e Silas estavam orando e cantando hinos a Deus; os outros presos os ouviam.<br>Atos 16:22-26."
+    },
+    {
+        "id": 67,
+        "pergunta": "Quem entrou na cidade dançando com a arca da aliança?",
+        "a": "Saul.",
+        "b": "Salomão.",
+        "c": "Davi.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Da­vi, vestindo o colete sacerdotal de linho, foi dançando com todas as suas forças perante o Senhor, en­quanto ele e todos os israelitas levavam a arca do Senhor ao som de gritos de alegria e de trombetas.<br>2 Samuel 6:14-15."
+    },
+    {
+        "id": 68,
+        "pergunta": "Qual era o nome da montanha onde Moisés recebeu os 10 Mandamentos?",
+        "a": "Monte Horebe.",
+        "b": "Monte Sinai.",
+        "c": "Monte das Oliveiras.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "O monte Sinai estava coberto de fumaça, pois o Senhor tinha desci­do sobre ele em chamas de fogo. Dele subia fumaça como que de uma fornalha; todo o mon­te tremia violentamente,<br>Êxodo 19:18."
+    },
+    {
+        "id": 69,
+        "pergunta": "Quem lutou com o anjo até ser abençoado?",
+        "a": "Abraão.",
+        "b": "Caim.",
+        "c": "Jacó.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Então o homem disse: 'Deixe-me ir, pois o dia já despon­ta'. Mas Jacó lhe respondeu: 'Não te deixarei ir, a não ser que me aben­çoes'.<br>Gênesis 32:26."
+    },
+    {
+        "id": 70,
+        "pergunta": "Quem se tornou uma coluna de sal depois que olhou para trás?",
+        "a": "Maria Madalena.",
+        "b": "Mulher de Ló.",
+        "c": "Nabucodonosor.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Mas a mulher de Ló olhou para trás e se trans­formou numa coluna de sal.<br>Gênesis 19:26."
+    },
+    {
+        "id": 71,
+        "pergunta": "Qual cidade teve a sua muralha derrubada?",
+        "a": "Corinto.",
+        "b": "Creta.",
+        "c": "Jericó.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Jericó estava completamente fechada por causa dos israelitas. Ninguém saía nem entrava.<br>Quando as trombetas soarem um longo toque, todo o povo dará um forte grito; o muro da cidade cairá e o povo atacará, cada um do lugar onde estiver'.<br>Josué 6:1 e Josué 6:5 respectivamente."
+    },
+    {
+        "id": 72,
+        "pergunta": "O que Gideão usou contra os midianitas?",
+        "a": "Escudos, espadas e lanças.",
+        "b": "Trombetas, cântaros e lâmpadas.",
+        "c": "Carruagens e arqueiros.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Dividiu os trezentos homens em três companhias e pôs nas mãos de todos eles trombetas e jarros vazios, com tochas dentro.<br>Juízes 7:16."
+    },
+    {
+        "id": 73,
+        "pergunta": "O Livro de Ageu está em que parte da Bíblia?",
+        "a": "Novo Testamento.",
+        "b": "Velho Testamento.",
+        "c": "Não existe na Bíblia.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Velho testamento."
+    },
+    {
+        "id": 74,
+        "pergunta": "Quem foi escolhido pelos discípulos para substituir Judas Iscariotes ?",
+        "a": "Matias.",
+        "b": "Paulo.",
+        "c": "Barnabé.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Então tiraram sortes, e a sorte caiu sobre Matias; assim, ele foi acrescentado aos onze apóstolos.<br>Atos 1:26."
+    },
+    {
+        "id": 75,
+        "pergunta": "O que estava escrito na placa da cruz onde Jesus foi crucificado?",
+        "a": "'Jesus Nazareno, O Reis dos Judeus'.",
+        "b": "'Culpado'.",
+        "c": "'Ele nada fez'.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Pilatos mandou preparar uma placa e pregá-la na cruz, com a seguinte inscrição: JESUS NAZARENO, O REI DOS JUDEUS.<br>João 19:19."
+    },
+    {
+        "id": 76,
+        "pergunta": "Quem interrogou Jesus?",
+        "a": "Ciro.",
+        "b": "Nero.",
+        "c": "Pilatos.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Então Pilatos lhe perguntou: 'Você não ouve a acusação que eles estão fazendo contra você?'<br>Mateus 27:13."
+    },
+    {
+        "id": 77,
+        "pergunta": "Jesus entrou em Jerusalém montado em que animal?",
+        "a": "Cavalo.",
+        "b": "Leão.",
+        "c": "Jumento.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Trouxeram a jumenta e o jumentinho, colocaram sobre eles os seus mantos, e sobre estes Jesus montou.<br>Mateus 21:7."
+    },
+    {
+        "id": 78,
+        "pergunta": "Quem decepou a orelha do servo do sumo sacerdote?",
+        "a": "Jesus Cristo.",
+        "b": "Um dos discípulos.",
+        "c": "Um soldado romano.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Um dos que estavam com Jesus, estendendo a mão, puxou a espada e feriu o servo do sumo sacerdote, decepando-lhe a orelha.<br>Mateus 26:51."
+    },
+    {
+        "id": 79,
+        "pergunta": "Qual Apóstolo era irmão de Tiago?",
+        "a": "João.",
+        "b": "Tomé.",
+        "c": "Pedro.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Tiago, filho de Zebedeu, e João, seu irmão, aos quais deu o nome de Boanerges, que significa 'filhos do trovão';<br>Marcos 3:17."
+    },
+    {
+        "id": 80,
+        "pergunta": "Onde Jesus foi crucificado?",
+        "a": "Gólgota.",
+        "b": "Monte Sinai.",
+        "c": "Monte Horebe.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Levaram Jesus ao lugar chamado Gólgota, que quer dizer lugar da Caveira.<br>Marcos 15:22."
+    },
+    {
+        "id": 81,
+        "pergunta": "Quem falou com Balaão?",
+        "a": "Jesus.",
+        "b": "Jumenta.",
+        "c": "Demônio.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Então o Senhor abriu a boca da jumenta, e ela disse a Balaão: 'Que foi que eu fiz a você, para você bater em mim três vezes?'<br>Números 22:28."
+    },
+    {
+        "id": 82,
+        "pergunta": "Quantas tribos tinha em Israel?",
+        "a": "7.",
+        "b": "3.",
+        "c": "12.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "(Ruben, Simeão, Judá, Zebulão, Isacar, Asher, Neftáli, Efraim, Manassé, Gad, Benjamim e Levi)<br>Gênesis 49:1-27."
+    },
+    {
+        "id": 83,
+        "pergunta": "Qual era a menor tribo de Israel?",
+        "a": "Benjamim.",
+        "b": "Dã.",
+        "c": "Manassés.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Os israelitas prantearam pelos seus irmãos benjamitas. 'Hoje uma tribo foi eliminada de Israel', diziam.<br>Juízes 21:6."
+    },
+    {
+        "id": 84,
+        "pergunta": "Quantas vezes o comandante Naamã mergulhou no rio Jordão?",
+        "a": "3 vezes.",
+        "b": "7 vezes.",
+        "c": "Não mergulhou.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Mas os seus servos lhe disseram: 'Meu pai, se o profeta tivesse pedido alguma coisa difícil, o senhor não faria? Quanto mais quando ele apenas diz que se lave, e será purificado!' Assim ele desceu ao Jordão, mergulhou sete vezes conforme a ordem do homem de Deus e foi purificado; sua pele tornou-se como a de uma criança.<br>2 Reis 5:13-14."
+    },
+    {
+        "id": 85,
+        "pergunta": "Quem escreveu os livros de Provérbios e Eclesiastes?",
+        "a": "Davi.",
+        "b": "Moisés.",
+        "c": "Salomão.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Estes são os provérbios de Salomão, filho de Davi, rei de Israel.<br>As palavras do mestre, filho de Davi, rei em Jerusalém:<br>Provérbios 1:1 e Eclesiastes 1:1 respectivamente."
+    },
+    {
+        "id": 86,
+        "pergunta": "'O ladrão vem apenas para roubar, matar e...'",
+        "a": "'...confundir'.",
+        "b": "'...destruir'.",
+        "c": "'...zombar'.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "O ladrão vem apenas para roubar, matar e destruir; eu vim para que tenham vida e a tenham plenamente.<br>João 10:10."
+    },
+    {
+        "id": 87,
+        "pergunta": "O que Deus disse depois que Jesus foi batizado nas águas?",
+        "a": "' Jesus é o Rei dos reis'.",
+        "b": "'Não toques no meu ungido'.",
+        "c": "'Este é o meu Filho amado, em quem me comprazo'.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "e o Espírito Santo desceu sobre ele em forma corpórea, como pomba. Então veio do céu uma voz: 'Tu és o meu Filho amado; em ti me agrado'<br>Lucas 3:22."
+    },
+    {
+        "id": 88,
+        "pergunta": "Quantos mandamentos tinham as Tábuas da Lei?",
+        "a": "7.",
+        "b": "10.",
+        "c": "12.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Moisés ficou ali com o Senhor quarenta dias e quaren­ta noites, sem comer pão e sem beber água. E escreveu nas tábuas as palavras da aliança: os Dez Mandamentos.<br>Êxodo 34:28."
+    },
+    {
+        "id": 89,
+        "pergunta": "'Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna'",
+        "a": "João 10:10.",
+        "b": "João 3:16.",
+        "c": "João 1:1.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "João 3:16."
+    },
+    {
+        "id": 90,
+        "pergunta": "Quem foi o bandido que foi escolhido para ser liberto em vez de Jesus?",
+        "a": "Judas.",
+        "b": "Pilatos.",
+        "c": "Barrabás.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Então perguntou o governador: 'Qual dos dois vocês querem que eu solte?' Responderam eles: 'Barrabás!' Perguntou Pilatos: 'Que farei então com Jesus, chamado Cristo?' Todos responderam: 'Crucifica-o!' 'Por quê? Que crime ele cometeu?', perguntou Pilatos. Mas eles gritavam ainda mais: 'Crucifica-o!'.<br>Mateus 27:21-23."
+    },
+    {
+        "id": 91,
+        "pergunta": "Qual mar foi aberto por Moisés?",
+        "a": "Mar Morto.",
+        "b": "Mar Vermelho.",
+        "c": "Mar da Galileia.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Ele lançou ao mar os carros de guerra e o exército do faraó. Os seus melhores oficiais afogaram-se no mar Vermelho.<br>Êxodo 15:4."
+    },
+    {
+        "id": 92,
+        "pergunta": "O que significa Emanuel?",
+        "a": "'Filho de Deus'.",
+        "b": "'Deus conosco'.",
+        "c": "'Deus é Fiel'.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "'A virgem ficará grávida e dará à luz um filho, e o chamarão Emanuel', que significa 'Deus conosco'<br>Mateus 1:1."
+    },
+    {
+        "id": 93,
+        "pergunta": "O Espírito Santo desceu em qual dia?",
+        "a": "Dia da Páscoa.",
+        "b": "Dia da Independência.",
+        "c": "Dia de Pentecostes.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Chegando o dia de Pentecoste, estavam todos reunidos num só lugar. De repente veio do céu um som, como de um vento muito forte, e encheu toda a casa na qual estavam assentados. E viram o que parecia línguas de fogo, que se separaram e pousaram sobre cada um deles. Todos ficaram cheios do Espírito Santo e começaram a falar noutras línguas, conforme o Espírito os capacitava.<br>Atos 2:1-4."
+    },
+    {
+        "id": 94,
+        "pergunta": "Quem teve um sonho e deixou seus irmãos com ciúmes?",
+        "a": "Abraão.",
+        "b": "José.",
+        "c": "Jacó.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Certa vez, José teve um sonho e, quando o contou a seus irmãos, eles passaram a odiá-lo ainda mais.<br>Gênesis 37:5."
+    },
+    {
+        "id": 95,
+        "pergunta": "Quem era irmão de Jacó?",
+        "a": "Arão.",
+        "b": "Esaú.",
+        "c": "Sete.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "O pri­meiro a sair era ruivo, e todo o seu corpo era como um manto de pelos; por isso lhe deram o nome de Esaú. Depois saiu seu irmão, com a mão agarrada no calcanhar de Esaú; pelo que lhe deram o nome de Jacó. Tinha Isaque sessen­ta anos de idade quando Rebeca os deu à luz. Os meninos cresceram. Esaú tornou-se caçador habilidoso e vivia percorrendo os cam­pos, ao passo que Jacó cuidava do rebanho e vivia nas tendas.<br>Gênesis 25:25-27."
+    },
+    {
+        "id": 96,
+        "pergunta": "Quem desejou comer a comida dos porcos?",
+        "a": "Saul.",
+        "b": "O endemoniado Gadareno.",
+        "c": "O filho pródigo.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Ele desejava encher o estômago com as vagens de alfarrobeira que os porcos comiam, mas ninguém lhe dava nada.<br>Lucas 15:16."
+    },
+    {
+        "id": 97,
+        "pergunta": "Quem pulou de alegria no ventre da mãe?",
+        "a": "Jesus.",
+        "b": "João Batista.",
+        "c": "Isaque.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Logo que a sua saudação chegou aos meus ouvidos, o bebê que está em meu ventre agitou-se de alegria.<br>Lucas 1:44."
+    },
+    {
+        "id": 98,
+        "pergunta": "O que o anjo disse a Maria Madalena chegando ao sepulcro vazio?",
+        "a": "'Ele não está aqui'.",
+        "b": "'Ele sumiu'.",
+        "c": "'Ele desapareceu'.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Ele não está aqui; ressuscitou, como tinha dito. Venham ver o lugar onde ele jazia.<br>Mateus 28:6."
+    },
+    {
+        "id": 99,
+        "pergunta": "Qual discípulo só acreditou vendo?",
+        "a": "Pedro.",
+        "b": "Tomé.",
+        "c": "André.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Os outros discípulos lhe disseram: 'Vimos o Senhor!' Mas ele lhes disse: 'Se eu não vir as marcas dos pregos nas suas mãos, não colocar o meu dedo onde estavam os pregos e não puser a minha mão no seu lado, não crerei'.<br>João 20:25."
+    },
+    {
+        "id": 100,
+        "pergunta": "Para quem Jonas se recusava a pregar?",
+        "a": "Os amorreus.",
+        "b": "Os ninivitas.",
+        "c": "Os amalequitas.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "'Vá depressa à grande cidade de Nínive e pregue contra ela, porque a sua maldade subiu até a minha presen­ça'. Mas Jonas fugiu da presença do Se­nhor, dirigindo-se para Társis. Desceu à cidade de Jope, onde encontrou um navio que se desti­nava àquele porto. Depois de pagar a passagem, embarcou para Társis, para fugir do Senhor.<br>Jonas 1:2-3."
+    },
+    {
+        "id": 101,
+        "pergunta": "Quantos livros tem a Bíblia protestante?",
+        "a": "66 livros.",
+        "b": "63 livros.",
+        "c": "65 livros.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "66 livros."
+    },
+    {
+        "id": 102,
+        "pergunta": "Quem foi o primeiro rei de Israel?",
+        "a": "Davi.",
+        "b": "Isbosete.",
+        "c": "Sau.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Assim, todo o povo foi a Gilgal e proclamou Saul como rei na presença do Senhor. Ali ofereceram sacrifícios de comunhão ao Senhor, e Saul e todos os israelitas tiveram momentos de grande alegria.<br>1 Samuel 11:15."
+    },
+    {
+        "id": 103,
+        "pergunta": "Qual é o último livro do Velho Testamento?",
+        "a": "Zacarias.",
+        "b": "Malaquias.",
+        "c": "Miqueias.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Ele fará com que os corações dos pais se voltem para seus filhos, e os corações dos filhos para seus pais; do contrário, eu virei e castigarei a terra com maldição.'<br>Malaquias 4:6."
+    },
+    {
+        "id": 104,
+        "pergunta": "Qual rei lançou Daniel na cova dos leões?",
+        "a": "Rei Ciro.",
+        "b": "Rei Dario.",
+        "c": "Rei Saul.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Dario achou por bem nomear cento e vinte sátrapas para governar todo o reino, e designou três supervisores sobre eles, um dos quais era Daniel. Os sátrapas tinham que prestar contas a eles para que o rei não sofresse nenhuma perda.<br>Daniel 6:1-2."
+    },
+    {
+        "id": 105,
+        "pergunta": "Quem foi o discípulo que traiu Jesus?",
+        "a": "Pedro.",
+        "b": "André.",
+        "c": "Judas.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Então, um dos Doze, chamado Judas Iscariotes, dirigiu-se aos chefes dos sacerdotes e lhes perguntou: 'O que me darão se eu o entregar a vocês?' E fixaram-lhe o preço: trinta moedas de prata. Desse momento em diante Judas passou a procurar uma oportunidade para entregá-lo.<br>Mateus 26:14-16."
+    },
+    {
+        "id": 106,
+        "pergunta": "Quem construiu a arca?",
+        "a": "Enqoue.",
+        "b": "Noé.",
+        "c": "Jafé.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Deus disse a Noé: 'Da­rei fim a todos os seres humanos, por­que a terra encheu-se de violên­cia por causa deles. Eu os destruirei com a terra. Você, porém, fará uma arca de madeira de cipreste; divida-a em compartimentos e revista-a de piche por dentro e por fora.<br>Gênesis 6:13-14."
+    },
+    {
+        "id": 107,
+        "pergunta": "Quem foi o homem que viveu por mais tempo na terra?",
+        "a": "Sete.",
+        "b": "Matusalém.",
+        "c": "Lameque.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Depois que gerou Lameque, Matu­salém viveu 782 anos e gerou outros filhos e fi­lhas. .Viveu ao todo 969 anos e morreu.<br>Gênesis 5:26-27."
+    },
+    {
+        "id": 108,
+        "pergunta": "Qual o maior capitulo da Bíblia?",
+        "a": "Lucas 1.",
+        "b": "Números 7.",
+        "c": "Salmos 119.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Salmos 119."
+    },
+    {
+        "id": 109,
+        "pergunta": "Quais são os 4 Evangelhos do Novo Testamento?",
+        "a": "Mateus, Marcos, Lucas e João.",
+        "b": "Mateus, Lucas, Atos e João.",
+        "c": "Mateus, Marcos, João e Tiago.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Mateus, Marcos, Lucas e João."
+    },
+    {
+        "id": 110,
+        "pergunta": "O 'Pentateuco' são.",
+        "a": "os 10 primeiros livros da Bíblia.",
+        "b": "os 5 primeiros livros do Novo Testamento.",
+        "c": "os 5 primeiros livros do Velho Testamento.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "os 5 primeiros livros do Velho Testamento."
+    },
+    {
+        "id": 111,
+        "pergunta": "Qual foi o Apóstolo que mais livros escreveu no Novo Testamento?",
+        "a": "Paulo.",
+        "b": ":João.",
+        "c": "Pedro.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "é atribuído a Paulo a autoria de aproximadamente 13 livros."
+    },
+    {
+        "id": 112,
+        "pergunta": "Quem foi o homem mais forte do mundo?",
+        "a": "Salomão.",
+        "b": "Sansão.",
+        "c": "Davi.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "A mulher deu à luz um menino e pôs-lhe o nome de Sansão. Ele cresceu, e o Senhor o abençoou,<br>Juízes 13:24."
+    },
+    {
+        "id": 113,
+        "pergunta": "Quem batizou Jesus no Rio Jordão?",
+        "a": "João Evangelista.",
+        "b": "José de Arimtéia.",
+        "c": "João Batista.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Naquela ocasião, Jesus veio de Nazaré da Galileia e foi batizado por João no Jordão. Assim que saiu da água, Jesus viu o céu se abrindo e o Espírito descendo como pomba sobre ele.<br>Marcos 1:9-10."
+    },
+    {
+        "id": 114,
+        "pergunta": "Quem foi o sábio que conversou com Jesus?",
+        "a": "Gamaliel.",
+        "b": "Nicodemos.",
+        "c": "Salomão.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Havia um fariseu chamado Nicodemos, uma autoridade entre os judeus. Ele veio a Jesus, à noite, e disse: 'Mestre, sabemos que ensinas da parte de Deus, pois ninguém pode realizar os sinais milagrosos que estás fazendo, se Deus não estiver com ele'.<br>João 3:1-2."
+    },
+    {
+        "id": 115,
+        "pergunta": "Qual o menor livro do Antigo Testamento?",
+        "a": "Obadias.",
+        "b": "Amós.",
+        "c": "Joel.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Obadias tem apenas um capítulo."
+    },
+    {
+        "id": 116,
+        "pergunta": "Quem era o filho primogênito de Adão e Eva?",
+        "a": "Sete.",
+        "b": "Caim.",
+        "c": "Abel.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Adão teve relações com Eva, sua mu­lher, e ela engravidou e deu à luz Caim. Disse ela: 'Com o auxílio do Senhor tive um filho ho­mem'.<br>Gênesis 4:1."
+    },
+    {
+        "id": 117,
+        "pergunta": "Qual alimento Jesus multiplicou?",
+        "a": "Frutas.",
+        "b": "Peixe e Pão.",
+        "c": "Leite.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Eles lhe disseram: 'Tudo o que temos aqui são cinco pães e dois peixes'.<br>Mateus 14:17."
+    },
+    {
+        "id": 118,
+        "pergunta": "Qual era o nome do irmão de Moisés?",
+        "a": "Jacó.",
+        "b": "Abraão.",
+        "c": "Arão.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Então o Senhor se irou com Moisés e lhe disse: 'Você não tem o seu irmão, Arão, o levita? Eu sei que ele fala bem. Ele já está vin­do ao seu encontro e se alegrará ao vê-lo.<br>Êxodo 4:14."
+    },
+    {
+        "id": 119,
+        "pergunta": "Quem liderou o Êxodo do povo hebreu no Egito?",
+        "a": "José.",
+        "b": "Moisés.",
+        "c": "Davi.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Pela fé saiu do Egito, não temendo a ira do rei, e perseverou, porque via aquele que é invisível.<br>Hebreus 11:23-27."
+    },
+    {
+        "id": 120,
+        "pergunta": "Quem é popularmente conhecido como o 'Apóstolo do amor'?",
+        "a": "Paulo.",
+        "b": "João.",
+        "c": "Tiago.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Um deles, o discípulo a quem Jesus amava, estava reclinado ao lado dele.<br>João 13:23."
+    },
+    {
+        "id": 121,
+        "pergunta": "Quantas vezes Deus chamou Samuel pelo nome?",
+        "a": "4 vezes.",
+        "b": "2 vezes.",
+        "c": "3 vezes.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "O Senhor chamou Samuel pela terceira vez. Ele se levantou, foi até Eli e disse: 'Estou aqui; o senhor me chamou?' Eli percebeu que o Senhor estava chamando o menino...<br> ...O Senhor voltou a chamá-lo como nas outras vezes: 'Samuel, Samuel!' Samuel disse: 'Fala, pois o teu servo está ouvindo'.<br>1 Samuel 3:8 e 1 Samuel 3:10 respectivamente."
+    },
+    {
+        "id": 122,
+        "pergunta": "'O Senhor é meu pastor, nada me faltará'",
+        "a": "Salmos 90.",
+        "b": "Salmos 23.",
+        "c": "Salmos 21.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "O Senhor é meu pastor, nada me faltará.<br>Salmo 23:1."
+    },
+    {
+        "id": 123,
+        "pergunta": "Qual é o primeiro livro do Novo Testamento?",
+        "a": "Gêneis.",
+        "b": "Lucas.",
+        "c": "Mateus.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Mateus."
+    },
+    {
+        "id": 124,
+        "pergunta": "Quem foi o homem mais velho da Bíblia?",
+        "a": "Adão.",
+        "b": "Noé.",
+        "c": "Matusalém.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Viveu ao todo 969 anos e morreu.<br>Gênesis 5:27."
+    },
+    {
+        "id": 125,
+        "pergunta": "Quem foi esposa do rei Assuero (Xerxes)?",
+        "a)": "Rute.",
+        "b": "Ester.",
+        "c": "Maria.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Quando chegou a vez de Ester, filha de Abiail, tio de Mardoqueu, que a tinha adotado como filha, ela não pediu nada além daquilo que Hegai, oficial responsável pelo harém, sugeriu. Ester causava boa impressão a todos os que a viam.<br>Ester 2:15."
+    },
+    {
+        "id": 126,
+        "pergunta": "Por que Daniel foi parar na cova dos leões?",
+        "a": "Blasfemou contra Deus.",
+        "b": "Negou a Deus vezes.",
+        "c": "Orava 3 vezes ao dia.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "E foram logo falar com o rei acerca do decreto real: 'Tu não publicaste um decreto ordenando que nestes trinta dias todo aquele que fizer algum pedido a qualquer deus ou a qualquer homem, exceto a ti, ó rei, será lançado na cova dos leões?' O rei respondeu: 'O decreto está em vigor, conforme a lei dos medos e dos persas, que não pode ser revogada'. Então disseram ao rei: 'Daniel, um dos exilados de Judá, não te dá ouvidos, ó rei, nem ao decreto que assinaste. Ele continua orando três vezes por dia'.<br>Daniel 6:12-13."
+    },
+    {
+        "id": 127,
+        "pergunta": "Faraó era rei.",
+        "a": "da Pérsia.",
+        "b": "do Egito.",
+        "c": "de Israel.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Disse ainda o faraó a José: 'Eu sou o faraó, mas sem a sua palavra ninguém poderá levantar a mão nem o pé em todo o Egito'.<br>Gênesis 41:44."
+    },
+    {
+        "id": 128,
+        "pergunta": "Que arma Davi utilizou para enfrentar Golias?",
+        "a": "Atiradera.",
+        "b": "Facão.",
+        "c": "Espada.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Tirando uma pedra de seu alforje, arremessou-a com a atiradeira e atingiu o filisteu na testa, de tal modo que ela ficou encravada, e ele caiu, dando com o rosto no chão.<br>1 Samuel 17:49."
+    },
+    {
+        "id": 129,
+        "pergunta": "Davi se apaixonou por qual mulher da lista?",
+        "a": "Rute.",
+        "b": "Bete-Seba.",
+        "c": "Abisague.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Uma tarde Davi levantou-se da cama e foi passear pelo terraço do palácio. Do terraço viu uma mulher muito bonita, tomando banho, e mandou alguém procurar saber quem era. Disseram-lhe: 'É Bate-Seba, filha de Eliã e mulher de Urias, o hitita'.<br>2 Samuel 11:2-3."
+    },
+    {
+        "id": 130,
+        "pergunta": "Quem era o marido de Bete-Seba?",
+        "a": "Urías.",
+        "b": "Salomão.",
+        "c": "Adonias.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "e mandou alguém procurar saber quem era. Disseram-lhe: 'É Bate-Seba, filha de Eliã e mulher de Urias, o hitita'.<br>2 Samuel 11:3."
+    },
+    {
+        "id": 131,
+        "pergunta": "Deus criou o mundo em quanto dias?",
+        "a": "8 dias.",
+        "b": "6 dias.",
+        "c": "7 dias.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "No sétimo dia Deus já havia concluído a obra que realizara, e nesse dia descansou. A­bençoou Deus o sétimo dia e o santificou, por­que nele descansou de toda a obra que realizara na criação.<br>Gênesis 2:2-3."
+    },
+    {
+        "id": 132,
+        "pergunta": "Qual era um dos objetivos da construção da Torre de Babel?",
+        "a": "Reconciliação com Deus.",
+        "b": "Tocar o céuu.",
+        "c": "Criar moradias.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Depois disseram: 'Vamos construir uma cidade, com uma torre que alcance os céus. Assim nosso nome será famoso ­e não seremos espalhados pela face da terra'.<br>Gênesis 11:4."
+    },
+    {
+        "id": 133,
+        "pergunta": "Em que livro se encontra a história da Arca de Noé?",
+        "a": "Êxôdo.",
+        "b": "Levitico.",
+        "c": "Gênesis.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Começa em Gênesis 6."
+    },
+    {
+        "id": 134,
+        "pergunta": "Qual o nome dos filhos de Noé?",
+        "a": "Sem, Cam e Jafé.",
+        "b": "Sete, Cam e Jafé.",
+        "c": "Sem, Cam e José.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Aos 500 anos, Noé tinha gerado Sem, Cam e Jafé.<br>Gênesis 5:32."
+    },
+    {
+        "id": 135,
+        "pergunta": "Qual foi o menino que ouviu a voz de Deus?",
+        "a": "Daniel.",
+        "b": "Samuel.",
+        "c": "José.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Então o Senhor chamou Samuel.<br>1 Samuel 3:4."
+    },
+    {
+        "id": 136,
+        "pergunta": "Quem liderou o povo de Israel na conquista da terra prometida?",
+        "a": "Moisés.",
+        "b": "Josué.",
+        "c": "Calebe.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Depois da morte de Moisés, servo do Senhor, disse o Senhor a Josué, filho de Num, auxiliar de Moisés: 'Meu servo Moisés está morto. Agora, pois, você e todo este povo preparem-se para atravessar o rio Jordão e entrar na terra que eu estou para dar aos israelitas. Co­mo prometi a Moisés, todo lugar onde puserem os pés eu darei a vocês.<br>Josué 1:1-3."
+    },
+    {
+        "id": 137,
+        "pergunta": "Quando Moisés mandou espias a Canaã, o que eles disseram da terra?",
+        "a": "parecíamos gigantes.",
+        "b": "parecíamos gafanhotos.",
+        "c": "A terra é inabitada.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Vimos também os gigantes, os descendentes de Enaque, diante de quem parecíamos gafanhotos, a nós e a eles'.<br>Números 13:33."
+    },
+    {
+        "id": 138,
+        "pergunta": "A quem Deus disse 'O Senhor é contigo, homem valoroso'?",
+        "a": "Calebe.",
+        "b": "Jonas.",
+        "c": "Gideão.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Então o Anjo do Senhor apareceu a Gideão e lhe disse: 'O Senhor está com você, poderoso guerreiro'.<br>Juízes 6:12."
+    },
+    {
+        "id": 139,
+        "pergunta": "Quem se tornou governador do Egito?",
+        "a": "José.",
+        "b": "Moisés.",
+        "c": "Ramsés.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "José era o governador do Egito e era ele que ven­dia trigo a todo o povo da terra. Por isso, quan­do os irmãos de José chegaram, cur­varam-se diante dele com o rosto em terra.<br>Gênesis 42:6."
+    },
+    {
+        "id": 140,
+        "pergunta": "Em quantos dias Neemias reconstruiu os muros de Jerusalém?",
+        "a": "40 dias.",
+        "b": "52 dias.",
+        "c": "90 dias.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "O muro ficou pronto no vigésimo quinto dia de elul, em cinquenta e dois dias.<br>Neemias 6:15."
+    },
+    {
+        "id": 141,
+        "pergunta": "Quem ficou 40 anos no deserto de Midiã, apascentando ovelhas?",
+        "a": "Davi.",
+        "b": "José.",
+        "c": "Moisés.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Moisés pastoreava o rebanho de seu sogro, Jetro, que era sacerdote de Midiã. Um dia levou o rebanho para o outro lado do deserto e chegou a Horebe, o monte de Deus.<br>'Por isso, diga aos israelitas: Eu sou o Senhor. Eu os livrarei do trabalho imposto pelos egípcios. Eu os libertarei da escravidão e os resgatarei com braço forte e com poderosos atos de juízo.<br>Êxodo 3:1 e Atos 7:29-30 respectivamente."
+    },
+    {
+        "id": 142,
+        "pergunta": "Por que Moisés não pôde entrar na terra prometida?",
+        "a": "Ele fez uma promessa de não entrar na terra.",
+        "b": "Moisés bateu na rocha raivosamente.",
+        "c": "Moisés abriu o mar sem a permissão de Deus.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "E o Senhor disse a Moisés: 'Pegue a vara, e com o seu irmão Arão reúna a comunidade e diante desta fale àquela rocha, e ela verterá água. Vocês tirarão água da rocha para a comunidade e os rebanhos beberem'. Então Moisés pegou a vara que estava diante do Senhor, como este lhe havia ordenado. Moisés e Arão reuniram a assembleia em frente da rocha, e Moisés disse: 'Escutem, rebeldes, será que teremos que tirar água desta rocha para dar a vocês?' Então Moisés ergueu o braço e bateu na rocha duas vezes com a vara. Jorrou água, e a comunidade e os rebanhos beberam. O Senhor, porém, disse a Moisés e a Arão: 'Como vocês não confiaram em mim para honrar minha santidade à vista dos israelitas, vocês não conduzirão esta comunidade para a terra que dou a vocês'.<br>Números 20:7-12."
+    },
+    {
+        "id": 143,
+        "pergunta": "Porque a sarça ardente chamou a atenção de Moisés?",
+        "a": "Era muito bonita.",
+        "b": "Ela não se consumia.",
+        "c": "Ela se consumiu em brasas.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "'Que impressionan­te!', pensou. 'Por que a sarça não se queima? Vou ver isso de perto.'<br>Êxodo 3:3."
+    },
+    {
+        "id": 144,
+        "pergunta": "Quem orou e fez descer fogo do céu?",
+        "a": "Moisés.",
+        "b": "Tiago.",
+        "c": "Elias.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Elias respondeu ao oficial: 'Se sou homem de Deus, que desça fogo do céu e consuma você e seus cinquenta soldados!' E desceu fogo do céu e consumiu o oficial e seus soldados.<br>2 Reis 1:10."
+    },
+    {
+        "id": 145,
+        "pergunta": "Quem abriu o rio Jordão, passando em seco?",
+        "a": "Elias.",
+        "b": "Moisés.",
+        "c": "José.",
+        "dificil": "FÁCIL",
+        "resposta": "a",
+        "versiculo": "Cinquenta discípulos dos profetas os acompanharam e ficaram olhando a distância, quando Elias e Eliseu pararam à margem do Jordão. Então Elias tirou o manto, enrolou-o e com ele bateu nas águas. As águas se dividiram, e os dois atravessaram em chão seco.<br>2 Reis 2:7-8."
+    },
+    {
+        "id": 146,
+        "pergunta": "Quem tinha capacidade de interpretar sonhos?",
+        "a": "Davi.",
+        "b": "Daniel.",
+        "c": "Josué.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "A esses quatro jovens Deus deu sabedoria e inteligência para conhecerem todos os aspec­tos da cultura e da ciência. E Daniel, além disso, sabia interpretar todo tipo de visões e sonhos.<br>Daniel 1:17."
+    },
+    {
+        "id": 147,
+        "pergunta": "Segundo Jesus, quem foi o 'maior entre os nascidos de mulher'?",
+        "a": "Abrão.",
+        "b": "João Batista.",
+        "c": "Davi.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "Digo a verdade a vocês: Do meio dos nascidos de mulher não surgiu ninguém maior do que João Batista; todavia, o menor no Reino dos céus é maior do que ele.<br>Mateus 11:11."
+    },
+    {
+        "id": 148,
+        "pergunta": "Quem preparou o caminho para o Messias?",
+        "a": "Davi.",
+        "b": "João Batista.",
+        "c": "Zacarias.",
+        "dificil": "FÁCIL",
+        "resposta": "b",
+        "versiculo": "'Eu os batizo com água para arrependimento. Mas depois de mim vem alguém mais poderoso do que eu, tanto que não sou digno nem de levar as suas sandálias. Ele os batizará com o Espírito Santo e com fogo.<br>Mateus 3:11."
+    },
+    {
+        "id": 149,
+        "pergunta": "Quem pediu a cabeça de João Batista?",
+        "a": "A filha de Pilatos.",
+        "b": "Dalila.",
+        "c": "A filha de Herodias.",
+        "dificil": "FÁCIL",
+        "resposta": "c",
+        "versiculo": "Imediatamente a jovem apressou-se em apresentar-se ao rei com o pedido: 'Desejo que me dês agora mesmo a cabeça de João Batista num prato'.<br>Marcos 6:25."
+    },
+    {
+        "id": 150,
+        "pergunta": "Qual profeta profetizou sobre o cativeiro babilônico?",
+        "a": "Esdras.",
+        "b": "Jeremias.",
+        "c": "Zacarias.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "As palavras de Jeremias, filho de Hilquias, um dos sacerdotes de Anatote, no território de Benjamim. A palavra do Senhor veio a ele no décimo terceiro ano do reinado de Josias, filho de Amom, rei de Judá, e durante o reinado de Jeoaquim, filho de Josias, rei de Judá, até o quinto mês do décimo primeiro ano de Zedequias, filho de Josias, rei de Judá, quando os habitantes de Jerusalém foram levados para o exílio.<br>Jeremias 1:1-3."
+    },
+    {
+        "id": 151,
+        "pergunta": "Quem da lista não é filho de Lia?",
+        "a": "Simeão.",
+        "b": "José.",
+        "c": "Judá.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Estes foram os filhos de Raquel, mulher de Jacó: José e Benjamim.<br>Gênesis 46:19."
+    },
+    {
+        "id": 152,
+        "pergunta": "Quem era irmã de Lia?",
+        "a": "Raquel.",
+        "b": "Sete.",
+        "c": "Hagar.",
+        "dificil": "MÉDIA",
+        "resposta": "a",
+        "versiculo": "Ora, Labão tinha duas filhas; o nome da mais velha era Lia, e o da mais nova, Raquel.<br>Gênesis 29:16."
+    },
+    {
+        "id": 153,
+        "pergunta": "Quais desses nomes não faziam parte das 12 tribos de Israel?",
+        "a": "Levi.",
+        "b": "Issacar.",
+        "c": "Diná.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Algum tempo depois, ela deu à luz uma menina a quem chamou Diná.<br>Gênesis 30:21."
+    },
+    {
+        "id": 154,
+        "pergunta": "Quais desses nomes não era um casal?",
+        "a": "Abraão e Sara.",
+        "b": "Jacó e Ana.",
+        "c": "Isaque e Rebeca.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Jacó e Ana."
+    },
+    {
+        "id": 155,
+        "pergunta": "Onde Jacó faleceu?",
+        "a": "Israel.",
+        "b": "Egito.",
+        "c": "Síria.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "e lhe deram a notícia: 'José ainda está vivo! Na verdade ele é o gover­nador de todo o Egito'. O coração de Jacó quase parou! Não podia acreditar neles. Mas, quando lhe relataram tudo o que José lhes dissera, e, vendo Jacó, seu pai, as carruagens que José enviara para buscá-lo, seu espírito reviveu. E Israel disse: 'Basta! Meu filho José ainda está vivo. Irei vê-lo antes que eu morra'.<br>Gênesis 45:26-28."
+    },
+    {
+        "id": 156,
+        "pergunta": "Quem era o irmão da Jacó?",
+        "a": "Isaque.",
+        "b": "Arão.",
+        "c": "Esaú.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Depois saiu seu irmão, com a mão agarrada no calcanhar de Esaú; pelo que lhe deram o nome de Jacó. Tinha Isaque sessen­ta anos de idade quando Rebeca os deu à luz.<br>Gênesis 25:26."
+    },
+    {
+        "id": 157,
+        "pergunta": "Quais desses nomes não estão na Bíblia?",
+        "a": "Abigail, Lídia e Marta.",
+        "b": "Alexa, Sol e Cecília.",
+        "c": "Ana, Ester e Rute.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Alexa, Sol e Cecília."
+    },
+    {
+        "id": 158,
+        "pergunta": "André era irmão de qual apóstolo?",
+        "a": "Pedro.",
+        "b": "João.",
+        "c": "Tiago.",
+        "dificil": "MÉDIA",
+        "resposta": "a",
+        "versiculo": "Andando à beira do mar da Galileia, Jesus viu dois irmãos: Simão, chamado Pedro, e seu irmão André. Eles estavam lançando redes ao mar, pois eram pescadores.<br>Mateus 4:18."
+    },
+    {
+        "id": 159,
+        "pergunta": "Quem foi instruído 'aos pés de Gamaliel'?",
+        "a": "Jesus.",
+        "b": "Paulo.",
+        "c": "João.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Quando ouviram que lhes falava em aramaico, ficaram em absoluto silêncio. Então Paulo disse: 'Sou judeu, nascido em Tarso da Cilícia, mas criado nesta cidade. Fui instruído rigorosamente por Gamaliel na lei de nossos antepassados, sendo tão zeloso por Deus quanto qualquer de vocês hoje.<br>Atos 22:2-3."
+    },
+    {
+        "id": 160,
+        "pergunta": "Qual dessas parábolas Jesus não contou?",
+        "a": "A parábola da dracma perdida.",
+        "b": "A parábola do soldado prudente.",
+        "c": "A parábola do juiz iníquo.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "A parábola do soldado prudente."
+    },
+    {
+        "id": 161,
+        "pergunta": "O que é uma parábola?",
+        "a": "São um conjunto de lendas.",
+        "b": "São histórias populares em forma de música.",
+        "c": "São pequenas histórias que explicam um conceito.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "São pequenas histórias que explicam um conceito."
+    },
+    {
+        "id": 162,
+        "pergunta": "Enoque viveu quantos anos, antes de ser transladado ao céu?",
+        "a": "365 anos.",
+        "b": "965 anos.",
+        "c": "900 anos.",
+        "dificil": "MÉDIA",
+        "resposta": "a",
+        "versiculo": "Aos 65 anos, Enoque gerou Matusa­lém. Depois que gerou Matusalém, Eno­que andou com Deus 300 anos e gerou outros filhos e fi­lhas. Viveu ao todo 365 anos. Enoque andou com Deus; e já não foi encontrado, pois Deus o havia arrebatado.<br>Gênesis 5:21-24."
+    },
+    {
+        "id": 163,
+        "pergunta": "Quem foi o primeiro ser humano a nascer na terra?",
+        "a": "Adão.",
+        "b": "Caim.",
+        "c": "Abel.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Adão teve relações com Eva, sua mu­lher, e ela engravidou e deu à luz Caim. Disse ela: 'Com o auxílio do Senhor tive um filho ho­mem'. Voltou a dar à luz, desta vez a Abel, irmão dele. Abel tornou-se pastor de ovelhas, e Caim, agricultor.<br>Gênesis 4:1-2."
+    },
+    {
+        "id": 164,
+        "pergunta": "Por que Caim matou Abel?",
+        "a": "Por uma herança.",
+        "b": "Pelo poder.",
+        "c": "Por inveja.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Passado algum tempo, Caim trouxe do fruto da terra uma ofe­rta ao ­Senhor. Abel, por sua vez, trouxe as partes gordas das primei­ras crias do seu reba­nho. O Senhor aceitou com agrado Abel e sua oferta, mas não aceitou Caim e sua oferta. Por isso Caim se enfureceu e o seu rosto se transtornou. Senhor disse a Caim: 'Por que você está furioso? Por que se transtornou o seu ros­to?<br>Gênesis 4:3-6."
+    },
+    {
+        "id": 165,
+        "pergunta": "Quem era a mãe de Caim e Abel?",
+        "a": "Sara.",
+        "b": "Eva.",
+        "c": "Eloá.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Adão teve relações com Eva, sua mu­lher, e ela engravidou e deu à luz Caim. Disse ela: 'Com o auxílio do Senhor tive um filho ho­mem'.<br>Gênesis 4:1."
+    },
+    {
+        "id": 166,
+        "pergunta": "Quem ficou temporariamente mudo?",
+        "a": "Zacarias.",
+        "b": "Obadias.",
+        "c": "Jeremias.",
+        "dificil": "MÉDIA",
+        "resposta": "a",
+        "versiculo": "O anjo respondeu: 'Sou Gabriel, o que está sempre na presença de Deus. Fui enviado para transmitir a você estas boas-novas. Agora você ficará mudo. Não poderá falar até o dia em que isso acontecer, porque não acreditou em minhas palavras, que se cumprirão no tempo oportuno'. Enquanto isso, o povo esperava por Zacarias, estranhando sua demora no santuário. Quando saiu, não conseguia falar nada; o povo percebeu então que ele tivera uma visão no santuário. Zacarias fazia sinais para eles, mas permanecia mudo.<br>Lucas 1:19-22."
+    },
+    {
+        "id": 167,
+        "pergunta": "Quem era rei e sacerdote no período de Abraão?",
+        "a": "Azalias.",
+        "b": "Nabucodonosor.",
+        "c": "Melquisedeque.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Então Melquisedeque, rei de Salém e sacerdote do Deus Altíssimo, trouxe pão e vinho<br>Gênesis 14:18."
+    },
+    {
+        "id": 168,
+        "pergunta": "Quais desses anjos não é citado na Bíblia evangélica?",
+        "a": "Miguel.",
+        "b": "Rafael.",
+        "c": "Gabriel.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Contudo, nem mesmo o arcanjo Miguel, quando estava disputando com o Diabo acerca do corpo de Moisés, ousou fazer acusação injuriosa contra ele, mas disse: 'O Senhor o repreenda!';<br>O anjo respondeu: 'Sou Gabriel, o que está sempre na presença de Deus. Fui enviado para transmitir a você estas boas-novas.<br><br>Judas 1:9 e Lucas 1:19 respectivamente."
+    },
+    {
+        "id": 169,
+        "pergunta": "Qual tribo ficou responsável por cuidar do templo e guiar o povo na adoração a Deus?",
+        "a": "Manassés.",
+        "b": "Levi.",
+        "c": "Judá.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Naquela ocasião o Senhor separou a tribo de Levi para carregar a arca da aliança do Senhor, para estar perante o Senhor a fim de ministrar e pronunciar bênçãos em seu nome, como se faz ainda hoje.<br>Deuteronômio 10:8."
+    },
+    {
+        "id": 170,
+        "pergunta": "Quem foi Asafe?",
+        "a": "Rei de Judá.",
+        "b": "Levita.",
+        "c": "Fariseu.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Foi naquele dia que, pela primeira vez, Davi encarregou Asafe e seus parentes de louvarem o Senhor com salmos de gratidão:<br>1 Crônicas 16:7."
+    },
+    {
+        "id": 171,
+        "pergunta": "Qual é o maior Salmo da Bíblia?",
+        "a": "Salmo 23.",
+        "b": "Salmo 119.",
+        "c": "Salmo 91.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Salmos 119."
+    },
+    {
+        "id": 172,
+        "pergunta": "Quantos livros tem a Bíblia protestante?",
+        "a": "77 Livros.",
+        "b": "62 Livros.",
+        "c": "66 Livros.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "66 livros."
+    },
+    {
+        "id": 173,
+        "pergunta": "Qual a referência do versículo: 'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus' ?",
+        "a": "João 1:1.",
+        "b": "João 3:10.",
+        "c": "João 3:16.",
+        "dificil": "MÉDIA",
+        "resposta": "a",
+        "versiculo": "João 1:1."
+    },
+    {
+        "id": 174,
+        "pergunta": "Quem era conhecido na Bíblia como 'o filho da promessa'?",
+        "a": "Jacó.",
+        "b": "Isaque.",
+        "c": "Ismael.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Pela fé Abraão - e também a própria Sara, apesar de estéril e avançada em idade - recebeu poder para gerar um filho, porque considerou fiel aquele que lhe havia feito a promessa.<br>Hebreus 11:11."
+    },
+    {
+        "id": 175,
+        "pergunta": "Qual profeta era calvo e chegou a ser zombado pela sua aparência?",
+        "a": "Jonas.",
+        "b": "Samuel.",
+        "c": "Eliseu.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "De Jericó Eliseu foi para Betel. No caminho, alguns meninos que vinham da cidade começaram a caçoar dele, gritando: 'Suma daqui, careca!'<br>2 Reis 2:23."
+    },
+    {
+        "id": 176,
+        "pergunta": "Que personagem bíblico era ruivo?",
+        "a": "Jesus.",
+        "b": "Davi.",
+        "c": "Daniel.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Olhou para Davi com desprezo, viu que era só um rapaz, ruivo e de boa aparência, e fez pouco caso dele.<br>1 Samuel 17:42."
+    },
+    {
+        "id": 177,
+        "pergunta": "Qual o nome do irmão paterno de Isaque?",
+        "a": "Arão.",
+        "b": "Ismael.",
+        "c": "Jacó.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Então Deus respondeu: 'Na verdade Sara, sua mulher, lhe dará um filho, e você lhe chamará Isaque. Com ele estabelecerei a minha aliança, que será aliança eterna para os seus fu­turos descendentes. E, no caso de Ismael, leva­rei em conta o seu pedido. Também o abençoa­rei; eu o farei prolífero e multiplicarei muito a sua descendên­cia. Ele será pai de doze príncipes e dele farei um grande povo. Mas a minha ali­ança, eu a estabelecerei com Isaque, filho que Sara dará a você no ano que vem, por esta época'.<br>Gênesis 17:19-21."
+    },
+    {
+        "id": 178,
+        "pergunta": "Qual profeta é conhecido devido ás lamentações?",
+        "a": "Jeremias.",
+        "b": "Zacarias.",
+        "c": "Amós.",
+        "dificil": "MÉDIA",
+        "resposta": "a",
+        "versiculo": "Jeremias compôs um cântico de lamento em homenagem a Josias, e até hoje todos os cantores e cantoras homenageiam Josias com cânticos de lamento. Estes se tornaram uma tradição em Israel e estão escritos na coletânea de lamentações.<br>2 Crônicas 35:25."
+    },
+    {
+        "id": 179,
+        "pergunta": "Quem escreveu o Livro de Apocalipse?",
+        "a": "Paulo de Tarso.",
+        "b": "João Batista.",
+        "c": "João Evangelista.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Revelação de Jesus Cristo, que Deus lhe deu para mostrar aos seus servos o que em breve há de acontecer. Ele enviou o seu anjo para torná-la conhecida ao seu servo João, que dá testemunho de tudo o que viu, isto é, a palavra de Deus e o testemunho de Jesus Cristo. Feliz aquele que lê as palavras desta profecia e felizes aqueles que ouvem e guardam o que nela está escrito, porque o tempo está próximo.<br>Apocalipse 1:1-3."
+    },
+    {
+        "id": 180,
+        "pergunta": "Por quanto tempo Moisés e o povo hebreu ficaram no deserto?",
+        "a": "40 dias.",
+        "b": "40 anos.",
+        "c": "40 semanas.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "'Durante os quarenta anos em que os conduzi pelo deserto', disse ele, 'nem as suas roupas, nem as sandálias dos seus pés se gastaram.<br>Deuteronômio 29:5."
+    },
+    {
+        "id": 181,
+        "pergunta": "Quem é o 'Pão da Vida'?",
+        "a": "João.",
+        "b": "Jesus.",
+        "c": "Elias.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Eu sou o pão da vida. <br>João 6:48."
+    },
+    {
+        "id": 182,
+        "pergunta": "Qual é a abreviação do Livro de Filipenses?",
+        "a": "Fi.",
+        "b": "Fe.",
+        "c": "Fp.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Fp."
+    },
+    {
+        "id": 183,
+        "pergunta": "Que personagem bíblico 'segurou o anjo'?",
+        "a": "Isaque.",
+        "b": "Jacó.",
+        "c": "Pedro.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Então o homem disse: 'Deixe-me ir, pois o dia já despon­ta'. Mas Jacó lhe respondeu: 'Não te deixarei ir, a não ser que me aben­çoes'. O homem lhe perguntou: 'Qual é o seu nome?' 'Jacó', respondeu ele.<br>Gênesis 32:26-27."
+    },
+    {
+        "id": 184,
+        "pergunta": "A história da Torre de Babel se encontra em que livro bíblico?",
+        "a": "Apocalipse.",
+        "b": "Ezequiel.",
+        "c": "Gênesis.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Por isso foi chamada Babel, porque ali o Senhor confundiu a língua de todo o mun­do. Dali o Senhor os espalhou por toda a terra.<br>Gênesis 11:9."
+    },
+    {
+        "id": 185,
+        "pergunta": "Qual foi o primeiro nome de Paulo?",
+        "a": "Tarso.",
+        "b": "Saulo.",
+        "c": "Saul.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Ele caiu por terra e ouviu uma voz que lhe dizia: 'Saulo, Saulo, por que você me persegue?'<br>Atos 9:4."
+    },
+    {
+        "id": 186,
+        "pergunta": "Quem foi vendido por seus irmãos como escravo?",
+        "a": "Davi.",
+        "b": "José.",
+        "c": "Esaú.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Judá disse então a seus irmãos: 'Que ganharemos se matarmos o nosso irmão e escon­dermos o seu sangue? Vamos vendê-lo aos ismaelitas. Não tocaremos nele, afinal é nosso irmão, é nosso próprio sangue'. E seus irmãos concordaram.<br>Gênesis 37:26-27."
+    },
+    {
+        "id": 187,
+        "pergunta": "Qual alimento era restrito no jejum de Daniel?",
+        "a": "Vinho.",
+        "b": "Vegetais.",
+        "c": "Legumes.",
+        "dificil": "MÉDIA",
+        "resposta": "a",
+        "versiculo": "Daniel, contudo, decidiu não se tornar impuro com a comida e com o vinho do rei, e pediu ao chefe dos oficiais permissão para se abster deles.<br>Daniel 1:8."
+    },
+    {
+        "id": 188,
+        "pergunta": "Qual era o maior império na época de Daniel?",
+        "a": "Império Romano.",
+        "b": "Império Babilônico.",
+        "c": "Império Medo.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "No terceiro ano do reinado de Jeoaquim, rei de Judá, Nabucodonosor, rei da Babilônia, veio a Jerusalém e a sitiou.<br>Daniel 1:1."
+    },
+    {
+        "id": 189,
+        "pergunta": "Qual era o nome do irmão 'mais velho' de Jesus?",
+        "a": "Barseba.",
+        "b": "A Bíblia não cita o seu nome.",
+        "c": "Jesus era o primogênito.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Foi assim o nascimento de Jesus Cristo: Maria, sua mãe, estava prometida em casamento a José, mas, antes que se unissem, achou-se grávida pelo Espírito Santo.<br>Mateus 1:18."
+    },
+    {
+        "id": 190,
+        "pergunta": "Qual era a profissão de Pedro antes de seguir Jesus?",
+        "a": "Publicano.",
+        "b": "Pescador.",
+        "c": "Pedreiro.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Andando à beira do mar da Galileia, Jesus viu dois irmãos: Simão, chamado Pedro, e seu irmão André. Eles estavam lançando redes ao mar, pois eram pescadores.<br>Mateus 4:18."
+    },
+    {
+        "id": 191,
+        "pergunta": "Qual desses personagens também era romano?",
+        "a": "Paulo.",
+        "b": "Pedro.",
+        "c": "João.",
+        "dificil": "MÉDIA",
+        "resposta": "a",
+        "versiculo": "O comandante dirigiu-se a Paulo e perguntou: 'Diga-me, você é cidadão romano?' Ele respondeu: 'Sim, sou'. Então o comandante disse: 'Eu precisei pagar um elevado preço por minha cidadania'. Respondeu Paulo: 'Eu a tenho por direito de nascimento'. Os que iam interrogá-lo retiraram-se imediatamente. O próprio comandante ficou alarmado, ao saber que havia prendido um cidadão romano.<br>Atos 22:27-29."
+    },
+    {
+        "id": 192,
+        "pergunta": "Quem apareceu no monte da transfiguração junto com Jesus?",
+        "a": "Abraão e Moisés.",
+        "b": "Moisés e Elias.",
+        "c": "Elias e Eliseu.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Naquele mesmo momento, apareceram diante deles Moisés e Elias, conversando com Jesus.<br>Mateus 17:3."
+    },
+    {
+        "id": 193,
+        "pergunta": "Qual profeta foi arrebatado?",
+        "a": "Eliseu.",
+        "b": "Elias.",
+        "c": "Moisés.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "De repente, enquanto caminhavam e conversavam, apareceu um carro de fogo puxado por cavalos de fogo que os separou, e Elias foi levado aos céus num redemoinho.<br>2 Reis 2:11."
+    },
+    {
+        "id": 194,
+        "pergunta": "Quem era o pai de Salomão?",
+        "a": "Saul.",
+        "b": "Davi.",
+        "c": "Jônatas.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Salomão assentou-se no trono de Davi, seu pai, e o seu reinado foi firmemente estabelecido.<br>1 Reis 2:12."
+    },
+    {
+        "id": 195,
+        "pergunta": "Qual é a abreviação do Livro de Ester?",
+        "a": "Es.",
+        "b": "Et.",
+        "c": "Er.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Et."
+    },
+    {
+        "id": 196,
+        "pergunta": "Quais são os 3 primeiros livros da Bíblia?",
+        "a": "Gênesis, êxodo e Deuteronômio.",
+        "b": "Gênesis, êxodo e Números.",
+        "c": "Gênesis, êxodo e Levítico.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Gênesis, êxodo e Levítico."
+    },
+    {
+        "id": 197,
+        "pergunta": "Qual o primeiro livro do Novo Testamento?",
+        "a": "Lucas.",
+        "b": "Mateus.",
+        "c": "Atos.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Mateus."
+    },
+    {
+        "id": 198,
+        "pergunta": "Quem escreveu a Epístola a Tito?",
+        "a": "Pedro.",
+        "b": "Paulo.",
+        "c": "Tito.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Paulo, servo de Deus e apóstolo de Jesus Cristo para levar os eleitos de Deus à fé e ao conhecimento da verdade que conduz à piedade; fé e conhecimento que se fundamentam na esperança da vida eterna, a qual o Deus que não mente prometeu antes dos tempos eternos. No devido tempo, ele trouxe à luz a sua palavra, por meio da pregação a mim confiada por ordem de Deus, nosso Salvador, a Tito, meu verdadeiro filho em nossa fé comum: Graça e paz da parte de Deus Pai e de Cristo Jesus, nosso Salvador.<br>Tito 1:1-4."
+    },
+    {
+        "id": 199,
+        "pergunta": "Qual o nome da mãe de João Batista?",
+        "a": "Sara.",
+        "b": "Maria.",
+        "c": "Isabel.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Mas o anjo lhe disse: 'Não tenha medo, Zacarias; sua oração foi ouvida. Isabel, sua mulher, dará a você um filho, e você lhe dará o nome de João.<br>Lucas 1:13."
+    },
+    {
+        "id": 200,
+        "pergunta": "Quem foi o sumo sacerdote que cuidou de Samuel?",
+        "a": "Elias.",
+        "b": "Eli.",
+        "c": "Arão.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "O menino Samuel ministrava perante o Senhor, sob a direção de Eli; naqueles dias raramente o Senhor falava, e as visões não eram frequentes.<br>1 Samuel 3:1."
+    },
+    {
+        "id": 201,
+        "pergunta": "Qual foi a oferta de Abel?",
+        "a": "Oferta de frutas e vegetais.",
+        "b": "Oferta de animais e gorduras.",
+        "c": "Oferta de ouro, incenso e mirra.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Abel, por sua vez, trouxe as partes gordas das primei­ras crias do seu reba­nho. O Senhor aceitou com agrado Abel e sua oferta,<br>Gênesis 4:4."
+    },
+    {
+        "id": 202,
+        "pergunta": "Qual foi o primeiro milagre de Jesus?",
+        "a": "Andou nas águas.",
+        "b": "Transformou água em vinho em um casamento.",
+        "c": "O milagre da multiplicação dos pães e peixes.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "e o encarregado da festa provou a água que fora transformada em vinho, sem saber de onde este viera, embora o soubessem os serviçais que haviam tirado a água. Então chamou o noivo e disse: 'Todos servem primeiro o melhor vinho e, depois que os convidados já beberam bastante, o vinho inferior é servido; mas você guardou o melhor até agora'. Este sinal milagroso, em Caná da Galileia, foi o primeiro que Jesus realizou. Revelou assim a sua glória, e os seus discípulos creram nele.<br>João 2:9-11."
+    },
+    {
+        "id": 203,
+        "pergunta": "Qual era o nome da comida que 'caía do céu'?",
+        "a": "Banquete.",
+        "b": "Iguaria.",
+        "c": "Maná.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "O povo de Israel chamou maná àquele pão. Era branco como semente de coentro e tinha gosto de bolo de mel.<br>êxodo 16:31."
+    },
+    {
+        "id": 204,
+        "pergunta": "Quem foi a mulher que pediu a cabeça de João Batista?",
+        "a": "Herodias.",
+        "b": "A filha de Herodias.",
+        "c": "Dalila.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Quando a filha de Herodias entrou e dançou, agradou a Herodes e aos convidados. O rei disse à jovem: 'Peça-me qualquer coisa que você quiser, e eu darei'. E prometeu-lhe sob juramento: 'Seja o que for que me pedir, eu darei, até a metade do meu reino'. Ela saiu e disse à sua mãe: 'Que pedirei?' 'A cabeça de João Batista', respondeu ela.<br>Marcos 6:22-24."
+    },
+    {
+        "id": 205,
+        "pergunta": "Jesus entrou em Jerusalém montado em qual animal?",
+        "a": "Um cavalo.",
+        "b": "Um jumento.",
+        "c": "Um camelo.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Trouxeram a jumenta e o jumentinho, colocaram sobre eles os seus mantos, e sobre estes Jesus montou.<br>Mateus 21:7."
+    },
+    {
+        "id": 206,
+        "pergunta": "Qual foi o sinal que Judas combinou com os soldados para entregar Jesus?",
+        "a": "Um cumprimento.",
+        "b": "Um beijo.",
+        "c": "Um abraço.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Enquanto ele ainda falava, apareceu uma multidão conduzida por Judas, um dos Doze. Este se aproximou de Jesus para saudá-lo com um beijo.Mas Jesus lhe perguntou: 'Judas, com um beijo você está traindo o Filho do homem?'<br>Lucas 22:47-48."
+    },
+    {
+        "id": 207,
+        "pergunta": "Qual era o nome da mãe de Ismael?",
+        "a": "Sete.",
+        "b": "Sara.",
+        "c": "Hagar.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Hagar teve um filho de Abrão, e este lhe deu o nome de Ismael.<br>Gênesis 16:15."
+    },
+    {
+        "id": 208,
+        "pergunta": "Qual o nome da esposa do rei Acabe?",
+        "a": "Salomé.",
+        "b": "Jezabel.",
+        "c": "Dalila.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "(Nunca existiu ninguém como Acabe que, pressionado por sua mulher, Jezabel, vendeu-se para fazer o que o Senhor reprova.<br>1 Reis 21:25."
+    },
+    {
+        "id": 209,
+        "pergunta": "Qual o nome do monte onde a arca de Noé repousou?",
+        "a": "Oliveiras.",
+        "b": "Ararate.",
+        "c": "Sinai.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "e, no décimo sétimo dia do sétimo mês, a arca pousou nas montanhas de Ara­rate.<br>Gênesis 8:4."
+    },
+    {
+        "id": 210,
+        "pergunta": "Qual era a profissão de Noé?",
+        "a": "Agricultor.",
+        "b": "Marinheiro.",
+        "c": "Arquiteto.",
+        "dificil": "MÉDIA",
+        "resposta": "a",
+        "versiculo": "Noé, que era agricultor, foi o primeiro a plan­tar uma vinha.<br>Gênesis 9:20."
+    },
+    {
+        "id": 211,
+        "pergunta": "Onde está a Arca da Aliança?",
+        "a": "Se encontra escondida no fundo do Mar Morto.",
+        "b": "Se encontra escondida no antigo templo de Jerusalém.",
+        "c": "Ninguém sabe onde está a Arca da Aliança.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Quando vocês aumentarem e se multiplicarem na sua terra naqueles dias, declara o Senhor, 'não dirão mais: 'A arca da aliança do Senhor'. Não pensarão mais nisso nem se lembrarão dela; não sentirão sua falta nem se fará outra arca.<br>Jeremias 3:16."
+    },
+    {
+        "id": 212,
+        "pergunta": "Qual foi o fruto que Adão e Eva comeram?",
+        "a": "O fruto da árvore da sabedoria.",
+        "b": "O fruto da árvore do conhecimento do bem e do mal.",
+        "c": "O fruto da árvore da vida e da morte.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "mas não coma da árvore do conheci­mento do bem e do mal, porque no dia em que dela comer, certa­mente você morrerá<br>Gênesis 2:17."
+    },
+    {
+        "id": 213,
+        "pergunta": "Qual foi o castigo de Eva por ter desobedecido a Deus?",
+        "a": "Teria que ficar grávida.",
+        "b": "Dores no parto.",
+        "c": "Ficou presa com a serpente.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "À mulher, ele declarou: 'Multiplicarei grandemente o seu sofrimento na gravidez; com sofrimento você dará à luz filhos. Seu desejo será para o seu marido, e ele a dominará'<br>Gênesis 3:16."
+    },
+    {
+        "id": 214,
+        "pergunta": "Qual foi o castigo de Adão por desobedecer a Deus?",
+        "a": "Ter que viver separado de Eva.",
+        "b": "Ter que trabalhar numa terra amaldiçoada.",
+        "c": "Ter que trabalhar cuidando de animais.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "E ao homem declarou: 'Visto que você deu ouvidos à sua mulher e comeu do fruto da árvore da qual ordenei a você que não comesse, maldita é a terra por sua causa; com sofrimento você se alimentará dela todos os dias da sua vida.Ela lhe dará espinhos e ervas daninhas, e você terá que alimentar-se das plantas do campo. Com o suor do seu rosto você comerá o seu pão, até que volte à terra, visto que dela foi tirado; porque você é pó, e ao pó voltará'.<br>Gênesis 3:17-19."
+    },
+    {
+        "id": 215,
+        "pergunta": "Lázaro foi ressuscitado depois de quantos dias?",
+        "a": "3 dias.",
+        "b": "4 dias.",
+        "c": "7 dias.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "'Tirem a pedra', disse ele. Disse Marta, irmã do morto: 'Senhor, ele já cheira mal, pois já faz quatro dias'.<br>João 11:39."
+    },
+    {
+        "id": 216,
+        "pergunta": "Qual desses homens não era profeta?",
+        "a": "Amós.",
+        "b": "Esaú.",
+        "c": "Joel.",
+        "dificil": "MÉDIA",
+        "resposta": "b",
+        "versiculo": "Os meninos cresceram. Esaú tornou-se caçador habilidoso e vivia percorrendo os campos, ao passo que Jacó cuidava do rebanho e vivia nas tendas.<br>Gênesis 25:27."
+    },
+    {
+        "id": 217,
+        "pergunta": "Qual a abreviação para o Livro de Habacuque?",
+        "a": "Hb.",
+        "b": "Hq.",
+        "c": "Hc.",
+        "dificil": "MÉDIA",
+        "resposta": "c",
+        "versiculo": "Hc."
+    },
+    {
+        "id": 218,
+        "pergunta": "Qual desses profetas é considerado um 'profeta maior'?",
+        "a": "Jeremias.",
+        "b": "Oseias.",
+        "c": "Zacarias.",
+        "dificil": "MÉDIA",
+        "resposta": "a",
+        "versiculo": "Jeremias."
+    },
+    {
+        "id": 219,
+        "pergunta": "Qual profeta fez o machado flutuar?",
+        "a": "Eliseu.",
+        "b": "Elias.",
+        "c": "Jonas.",
+        "dificil": "MÉDIA",
+        "resposta": "a",
+        "versiculo": "Quando um deles estava cortando um tronco, o ferro do machado caiu na água. E ele gritou: 'Ah, meu senhor, era emprestado!' o homem de Deus perguntou: 'Onde caiu?' Quando o homem lhe mostrou o lugar, Eliseu cortou um galho e o jogou ali, fazendo o ferro flutuar, e disse: 'Pegue-o'. O homem esticou o braço e o pegou.<br>2 Reis 6:5-7."
+    },
+    {
+        "id": 220,
+        "pergunta": "Qual rei se tornou uma fera sem nenhum controle?",
+        "a": "Acabe.",
+        "b": "Faraó.",
+        "c": "Nabucodonosor.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "A sentença sobre Nabucodonosor cumpriu-se imediatamente. Ele foi expulso do meio dos homens e passou a comer capim como os bois. Seu corpo molhou-se com o orvalho do céu, até que os seus cabelos e pelos cresceram como as penas da águia, e as suas unhas como as garras das aves.<br>Daniel 4:33."
+    },
+    {
+        "id": 221,
+        "pergunta": "Quais discípulos perguntaram a Jesus se podiam fazer descer fogo do céu?",
+        "a": "João e Tiago.",
+        "b": "Pedro e João.",
+        "c": "Tiago e Pedro.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Ao verem isso, os discípulos Tiago e João perguntaram: 'Senhor, queres que façamos cair fogo do céu para destruí-los?'<br>Lucas 9:54."
+    },
+    {
+        "id": 222,
+        "pergunta": "Qual era o nome da serpente de bronze que Moisés tinha feito?",
+        "a": "Aserá.",
+        "b": "Leviatã.",
+        "c": "Neustã.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Removeu os altares idólatras, quebrou as colunas sagradas e derrubou os postes sagrados. Despedaçou a serpente de bronze que Moisés havia feito, pois até aquela época os israelitas lhe queimavam incenso. Era chamada Neustã.<br>2 Reis 18:4."
+    },
+    {
+        "id": 223,
+        "pergunta": "Qual era o nome babilônico de Daniel?",
+        "a": "Aspenaz.",
+        "b": "Beltessazar.",
+        "c": "Abede-Nego.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "O chefe dos oficiais deu-lhes novos nomes: a Daniel deu o nome de Beltessazar; a Hananias, Sadraque; a Misael, Mesaque; e a Azarias, Abede-Nego.<br>Daniel 1:7."
+    },
+    {
+        "id": 224,
+        "pergunta": "Qual o nome que Jacó deu ao lugar onde sonhou com Deus?",
+        "a": "Be-tuel.",
+        "b": "Luz.",
+        "c": "Betel.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Na manhã seguinte, Jacó pegou a pedra que tinha usado como travesseiro, colocou-a em pé como coluna e derramou óleo sobre o seu topo. E deu o nome de Betel àque­le lugar, embora a cidade anteriormente se chamasse Luz.<br>Gênesis 28:18-19."
+    },
+    {
+        "id": 225,
+        "pergunta": "Qual o livro da Bíblia que termina com um ponto de interrogação?",
+        "a": "Jonas.",
+        "b": "Joel.",
+        "c": "Judas.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Contudo, Nínive tem mais de cento e vinte mil pessoas que não sabem nem distinguir a mão direita da esquerda, além de muitos rebanhos. Não deve­ria eu ter pena dessa grande cidade?'<br>Jonas 4:11."
+    },
+    {
+        "id": 226,
+        "pergunta": "Na visão profética de João qual era o número de cavaleiros do Apocalipse?",
+        "a": "7.",
+        "b": "4.",
+        "c": "5.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Olhei, e diante de mim estava um cavalo amarelo. Seu cavaleiro chamava-se Morte, e o Hades o seguia de perto. Foi-lhes dado poder sobre um quarto da terra para matar pela espada, pela fome, por pragas e por meio dos animais selvagens da terra.<br>Apocalipse 6:1-8."
+    },
+    {
+        "id": 227,
+        "pergunta": "Quem escreveu a Epístola de Judas?",
+        "a": "Judas irmão de Tiago.",
+        "b": "Judas Iscariotes.",
+        "c": "João Evangelista.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Judas, servo de Jesus Cristo e irmão de Tiago, aos que foram chamados, amados por Deus Pai e guardados por Jesus Cristo:<br>Judas 1:1."
+    },
+    {
+        "id": 228,
+        "pergunta": "Quem teve seu corpo disputado pelo arcanjo Miguel e o Diabo?",
+        "a": "Jesus.",
+        "b": "Eliseu.",
+        "c": "Moisés.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Contudo, nem mesmo o arcanjo Miguel, quando estava disputando com o Diabo acerca do corpo de Moisés, ousou fazer acusação injuriosa contra ele, mas disse: 'O Senhor o repreenda!'<br>Judas 1:9."
+    },
+    {
+        "id": 229,
+        "pergunta": "Qual era o nome da profetisa que estava fazendo a igreja de Tiatira cair em imoralidade sexual e idolatria?",
+        "a": "Jezabel.",
+        "b": "Lilith.",
+        "c": "Dalila.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "'No entanto, contra você tenho isto: você tolera Jezabel, aquela mulher que se diz profetisa. Com os seus ensinos, ela induz os meus servos à imoralidade sexual e a comerem alimentos sacrificados aos ídolos.<br>Apocalipse 2:18-20."
+    },
+    {
+        "id": 230,
+        "pergunta": "A Morte montada em um cavalo amarelo surgiu na abertura de qual selo em Apocalipse?",
+        "a": "1º selo.",
+        "b": "7º selo.",
+        "c": "4º selo.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Quando o Cordeiro abriu o quarto selo, ouvi a voz do quarto ser vivente dizer: 'Venha!' Olhei, e diante de mim estava um cavalo amarelo. Seu cavaleiro chamava-se Morte, e o Hades o seguia de perto. Foi-lhes dado poder sobre um quarto da terra para matar pela espada, pela fome, por pragas e por meio dos animais selvagens da terra.<br>Apocalipse 6:7-8."
+    },
+    {
+        "id": 231,
+        "pergunta": "Quem foi a única mulher citada na Bíblia a ter o status de juíza e líder de Israel?",
+        "a": "Jael.",
+        "b": "Débora.",
+        "c": "Ester.",
+        "dificil": "DIFÍCIL",
+        "resposta": ".",
+        "versiculo": "Débora, uma profetisa, mulher de Lapidote, liderava Israel naquela época. Ela se sentava debaixo da tamareira de Débora, entre Ramá e Betel, nos montes de Efraim, e os israelitas a procuravam, para que ela decidisse as suas questões.<br>Juízes 4:4-5."
+    },
+    {
+        "id": 232,
+        "pergunta": "A quem o Apóstolo Paulo chamou de 'médico amado'?",
+        "a": "Jesus.",
+        "b": "Demas.",
+        "c": "Lucas.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Lucas, o médico amado, e Demas enviam saudações.<br>Colossenses 4:14."
+    },
+    {
+        "id": 233,
+        "pergunta": "Quem governou sendo rei e sacerdote ao mesmo tempo?",
+        "a": "Joacaz.",
+        "b": "Melquisedeque.",
+        "c": "Manassés.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Então Melquisedeque, rei de Salém e sacerdote do Deus Altíssimo, trouxe pão e vinho<br>Gênesis 14:18."
+    },
+    {
+        "id": 234,
+        "pergunta": "Que animal mordeu a mão do Apóstolo Paulo?",
+        "a": "Lagarto.",
+        "b": "Escorpião.",
+        "c": "Víbora.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Paulo ajuntou um monte de gravetos; quando os colocava no fogo, uma víbora, fugindo do calor, prendeu-se à sua mão.<br>Atos 28:3."
+    },
+    {
+        "id": 235,
+        "pergunta": "Qual era a idade de Calebe quando pediu Hebrom para Josué?",
+        "a": "40 anos.",
+        "b": "85 anos.",
+        "c": "120 anos.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "'Pois bem, o Senhor manteve-me vivo, como prometeu. E foi há quarenta e cinco anos que ele disse isso a Moisés, quando Israel caminhava pelo deserto. Por isso aqui estou hoje, com oitenta e cinco anos de idade!<br>Josué 14:10."
+    },
+    {
+        "id": 236,
+        "pergunta": "Por quantas moedas Judas entregou Jesus?",
+        "a": "30 moedas de ouro.",
+        "b": "30 moedas de prata.",
+        "c": "100 denários.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Então, um dos Doze, chamado Judas Iscariotes, dirigiu-se aos chefes dos sacerdotes e lhes perguntou: 'O que me darão se eu o entregar a vocês?' E fixaram-lhe o preço: trinta moedas de prata.<br>Mateus 26:14-15."
+    },
+    {
+        "id": 237,
+        "pergunta": "Quem foram apelidados por Jesus de Boanerges que significa 'Filhos do Trovão'?",
+        "a": "João e Pedro.",
+        "b": "João e Tiago.",
+        "c": "Pedro e Tiago.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Tiago, filho de Zebedeu, e João, seu irmão, aos quais deu o nome de Boanerges, que significa 'filhos do trovão';<br>Marcos 3:17."
+    },
+    {
+        "id": 238,
+        "pergunta": "Qual o discípulo que acompanhou Jesus até a sua crucificação?",
+        "a": "André.",
+        "b": "Tiago.",
+        "c": "João.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Quando Jesus viu sua mãe ali, e, perto dela, o discípulo a quem ele amava, disse à sua mãe: 'Aí está o seu filho', e ao discípulo: 'Aí está a sua mãe'. Daquela hora em diante, o discípulo a recebeu em sua família.<br>João 19:26-27."
+    },
+    {
+        "id": 239,
+        "pergunta": "Qual era o nome da única filha de Lia?",
+        "a": "Zilpa.",
+        "b": "Diná.",
+        "c": "Raquel.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Algum tempo depois, ela deu à luz uma menina a quem chamou Diná.<br>Gênesis 30:21."
+    },
+    {
+        "id": 240,
+        "pergunta": "A estátua do sonho de Nabucodonosor era composta de quais elementos?",
+        "a": "Toda em ouro.",
+        "b": "Ouro, prata, bronze, ferro e barro.",
+        "c": "Ouro, prata, bronze, onix e ferro.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Então o ferro, o barro, o bronze, a prata e o ouro foram despedaçados, viraram pó, como o pó da debulha do trigo na eira durante o verão. O vento os levou sem deixar vestígio. Mas a pedra que atingiu a estátua tornou-se uma montanha e encheu a terra toda.<br>Daniel 2:35."
+    },
+    {
+        "id": 241,
+        "pergunta": "Quem era conhecido por ser cobrador de impostos?",
+        "a": "Zacarias.",
+        "b": "Zebedeu.",
+        "c": "Zaqueu.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Havia ali um homem rico chamado Zaqueu, chefe dos publicanos. <br>Lucas 19:2."
+    },
+    {
+        "id": 242,
+        "pergunta": "Quanto tempo Jonas ficou preso dentro da barriga de um grande peixe?",
+        "a": "7 dias.",
+        "b": "3 dias.",
+        "c": "1 dia.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "O Senhor fez com que um grande peixe engolisse Jonas, e ele ficou dentro do peixe três dias e três noites.<br>Jonas 1:17."
+    },
+    {
+        "id": 243,
+        "pergunta": "Qual foram os dois nomes indicados para substituir Judas Iscariotes?",
+        "a": "Barsabás e Matias.",
+        "b": "Paulo e Matias.",
+        "c": "Paulo e José.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Então indicaram dois nomes: José, chamado Barsabás, também conhecido como Justo, e Matias. <br>Atos 1:23."
+    },
+    {
+        "id": 244,
+        "pergunta": "Em Tessalônica, Paulo, Silas e Timóteo se refugiaram na casa de qual irmão?",
+        "a": "Apolo.",
+        "b": "Barnabé.",
+        "c": "Jasom.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Contudo, não os achando, arrastaram Jasom e alguns outros irmãos para diante dos oficiais da cidade, gritando: 'Esses homens, que têm causado alvoroço por todo o mundo, agora chegaram aqui, e Jasom os recebeu em sua casa. Todos eles estão agindo contra os decretos de César, dizendo que existe um outro rei, chamado Jesus'.<br>Atos 17:6-7."
+    },
+    {
+        "id": 245,
+        "pergunta": "Adão viveu ao todo quantos anos?",
+        "a": "930 anos.",
+        "b": "1000 anos.",
+        "c": "500 anos.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Viveu ao todo 930 anos e mor­reu.<br>Gênesis 5:5."
+    },
+    {
+        "id": 246,
+        "pergunta": "Jesus enviou quantos discípulos para a missão de pregar o Evangelho?",
+        "a": "7 discípulos.",
+        "b": "70 discípulos.",
+        "c": "12 discípulos.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Depois disso o Senhor designou outros setenta e dois e os enviou dois a dois, adiante dele, a todas as cidades e lugares para onde ele estava prestes a ir.<br>Lucas 10:1."
+    },
+    {
+        "id": 247,
+        "pergunta": "Em qual dia da criação foi feito o sol, a lua e as estrelas?",
+        "a": "1º dia.",
+        "b": "3º dia.",
+        "c": "4º dia.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Passaram-se a tarde e a manhã; esse foi o quarto dia.<br>Gênesis 1:19."
+    },
+    {
+        "id": 248,
+        "pergunta": "Depois do Dilúvio, Noé viveu por mais quantos anos?",
+        "a": "350 anos.",
+        "b": "100 anos.",
+        "c": "7 dias.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Depois do Dilúvio Noé viveu trezentos e cinquenta anos.<br>Gênesis 9:28."
+    },
+    {
+        "id": 249,
+        "pergunta": "Quem Noé amaldiçoou após saber que foi visto em nudez?",
+        "a": "Canaã.",
+        "b": "Cam.",
+        "c": "Jafé.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "disse: 'Maldito seja Canaã! Escravo de escravos será para os seus irmãos'.<br>Gênesis 9:25-27."
+    },
+    {
+        "id": 250,
+        "pergunta": "Quantos versículos tem Salmos 119?",
+        "a": "176 versículos.",
+        "b": "200 versículos.",
+        "c": "100 versículos.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Andei vagando como ovelha perdida; vem em busca do teu servo, pois não me esqueci dos teus mandamentos.<br>Salmos 119:176."
+    },
+    {
+        "id": 251,
+        "pergunta": "Qual a mulher que acolheu o seu inimigo e depois o matou?",
+        "a": "Raquel.",
+        "b": "Débora.",
+        "c": "Jael.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Jael saiu ao encontro de Sísera e o convidou: 'Venha, entre na minha tenda, meu senhor. Não tenha medo!' Ele entrou, e ela o cobriu com um pano.<br>Juízes 4:18."
+    },
+    {
+        "id": 252,
+        "pergunta": "Que homem depois de morto, matou mais pessoas do que em vida?",
+        "a": "Elias.",
+        "b": "Sansão.",
+        "c": "Judas.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "disse: 'Que eu morra com os filisteus!' Em seguida, ele as empurrou com toda a força, e o templo desabou sobre os líderes e sobre todo o povo que ali estava. Assim, na sua morte, Sansão matou mais homens do que em toda a sua vida.<br>Juízes 16:30."
+    },
+    {
+        "id": 253,
+        "pergunta": "Quem se tornou rei enquanto procurava as jumentas do seu pai?",
+        "a": "Davi.",
+        "b": "Saul.",
+        "c": "Acabe.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "E aconteceu que as jumentas de Quis, pai de Saul, extraviaram-se. E ele disse a Saul: 'Chame um dos servos e vá procurar as jumentas'.<br>1 Samuel 9:3."
+    },
+    {
+        "id": 254,
+        "pergunta": "Quem tinha um cabelo que pesava mais de dois quilos e era necessário cortar todo ano?",
+        "a": "Absalão.",
+        "b": "Davi.",
+        "c": "Sansão.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Sem­pre que o cabelo lhe ficava pesado demais, ele o cortava e o pesava: eram dois quilos e quatrocentos gramas, segundo o padrão do rei.<br>2 Samuel 14:26."
+    },
+    {
+        "id": 255,
+        "pergunta": "Quem teve a vida prolongada por mais 15 anos após orar?",
+        "a": "Enoque.",
+        "b": "Matusalém.",
+        "c": "Ezequias.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "'Vá dizer a Ezequias: Assim diz o Senhor, o Deus de seu antepassado Davi: Ouvi sua oração e vi suas lágrimas; acrescentarei quinze anos à sua vida.<br>Isaías 38:5."
+    },
+    {
+        "id": 256,
+        "pergunta": "Quem foram apelidados pela multidão em Listra de Zeus e Hermes?",
+        "a": "Pedro e João.",
+        "b": "Barnabé e Paulo.",
+        "c": "Jesus e Paulo.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "A Barnabé chamavam Zeus e a Paulo chamavam Hermes, porque era ele quem trazia a palavra.<br>Atos 14:12."
+    },
+    {
+        "id": 257,
+        "pergunta": "Quais os 2 homens que o Apóstolo Paulo disse que naufragaram na fé?",
+        "a": "Himeneu e Alexandre.",
+        "b": "Janes e Jambres.",
+        "c": "Silas e Barnabé.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "mantendo a fé e a boa consciência que alguns rejeitaram e, por isso, naufragaram na fé. Entre eles estão Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar.<br>1 Timóteo 1:19-20."
+    },
+    {
+        "id": 258,
+        "pergunta": "Qual foi o profeta que surgiu depois de Malaquias?",
+        "a": "Zacarias.",
+        "b": "Joel.",
+        "c": "João Batista.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Naqueles dias, surgiu João Batista, pregando no deserto da Judeia.<br>Mateus 3:1."
+    },
+    {
+        "id": 259,
+        "pergunta": "Quantos carros de ferro Jabim possuía?",
+        "a": "900 carros de ferro.",
+        "b": "300 carros de ferro.",
+        "c": "100 carros de ferro.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Assim o Senhor os entregou nas mãos de Jabim, rei de Canaã, que reinava em Hazor. O comandante do seu exército era Sísera, que habitava em Harosete-Hagoim.<br>Juízes 4:2."
+    },
+    {
+        "id": 260,
+        "pergunta": "Qual o nome do pai de Saul?",
+        "a": "Abiel.",
+        "b": "Quis.",
+        "c": "Zeror.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Havia um homem de Benjamim, rico e influente, chamado Quis, filho de Abiel, neto de Zeror, bisneto de Becorate e trineto de Afia.<br>1 Samuel 9:1."
+    },
+    {
+        "id": 261,
+        "pergunta": "Sísera foi morto em que situação?",
+        "a": "Enquanto dormia.",
+        "b": "Enquanto lutava.",
+        "c": "Enquanto orava.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Entretanto, Jael, mulher de Héber, apanhou uma estaca da tenda e um martelo e aproximou-se silenciosamente enquanto ele, exausto, dormia um sono profundo. E cravou-lhe a estaca na têmpora até penetrar o chão, e ele morreu.<br>Juízes 4:21."
+    },
+    {
+        "id": 262,
+        "pergunta": "Balaão foi chamado por quem para amaldiçoar o povo de Israel?",
+        "a": "Moabe.",
+        "b": "Balaque.",
+        "c": "Zipor.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Então os moabitas disseram aos líderes de Midiã: 'Essa multidão devorará tudo o que há ao nosso redor, como o boi devora o capim do pasto'. Balaque, filho de Zipor, rei de Moabe naquela época, 'Um povo que saiu do Egito cobre a face da terra e se estabeleceu perto de mim.<br>Números 22:4."
+    },
+    {
+        "id": 263,
+        "pergunta": "Oseias profetizou durante o reinado de quais reis?",
+        "a": "Saul, Davi e Salomão.",
+        "b": "Jozias, Joacaz, Ocazias e Jorão.",
+        "c": "Uzias, Jotão, Acaz, Ezequias e Jeroboão.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Palavra do Senhor que veio a Oseias, filho de Beeri, durante os reinados de Uzias, Jotão, Acaz e Ezequias, reis de Judá, e de Jeroboão, filho de Jeoás, rei de Israel.<br>Oséias 1:1."
+    },
+    {
+        "id": 264,
+        "pergunta": "Oséias se casou com.",
+        "a": "Uma rainha.",
+        "b": "Uma mulher adúltera.",
+        "c": "Uma mulher estrangeira.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Quando o Senhor começou a falar por meio de Oseias, disse-lhe: 'V á, tome uma mulher adúltera e filhos da infidelidade, porque a nação é culpada do mais vergonhoso adultério por afastar-se do Senhor'. Por isso ele se casou com Gômer, filha de Diblaim; ela engravidou e lhe deu um filho.<br>Oséias 1:2-3."
+    },
+    {
+        "id": 265,
+        "pergunta": "Sofonias foi profeta durante qual reinado?",
+        "a": "Reinado de Josias.",
+        "b": "Reinado de Acabe.",
+        "c": "Reinado de Acaz.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Palavra do Senhor que veio a Sofonias, filho de Cuchi, neto de Gedalias, bisneto de Amarias e trineto de Ezequias, durante o reinado de Josias, filho de Amom, rei de Judá:<br>Sofonias 1:1."
+    },
+    {
+        "id": 266,
+        "pergunta": "Que povo recebeu Paulo com grande interesse, e examinou as Escrituras, para ver se tudo era verdade?",
+        "a": "Os tessalônios.",
+        "b": "Os bereanos.",
+        "c": "Os atenienses.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Os bereanos eram mais nobres do que os tessalonicenses, pois receberam a mensagem com grande interesse, examinando todos os dias as Escrituras, para ver se tudo era assim mesmo.<br>Atos 17:11."
+    },
+    {
+        "id": 267,
+        "pergunta": "O que deixou Paulo indignado em Atenas?",
+        "a": "A promiscuidade do povo grego.",
+        "b": "A quantidade de ídolos na cidade.",
+        "c": "A falta de sinagogas na cidade.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Enquanto esperava por eles em Atenas, Paulo ficou profundamente indignado ao ver que a cidade estava cheia de ídolos. Por isso, discutia na sinagoga com judeus e com gregos tementes a Deus, bem como na praça principal, todos os dias, com aqueles que por ali se encontravam.<br>Atos 17:16-17."
+    },
+    {
+        "id": 268,
+        "pergunta": "Em Atenas, onde Paulo foi levado para falar sobre Jesus Cristo?",
+        "a": "Coliseu.",
+        "b": "Santuário.",
+        "c": "Areópago.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Então o levaram a uma reunião do Areópago, onde lhe perguntaram: 'Podemos saber que novo ensino é esse que você está anunciando?<br>Atos 17:19."
+    },
+    {
+        "id": 269,
+        "pergunta": "No discurso de Paulo em Atenas, quem creu e se juntou a ele?",
+        "a": "Nicodemos.",
+        "b": "Dionísio.",
+        "c": "Arquimedes.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Alguns homens juntaram-se a ele e creram. Entre eles estava Dionísio, membro do Areópago, e também uma mulher chamada Dâmaris, e outros com eles.<br>Atos 17:34."
+    },
+    {
+        "id": 270,
+        "pergunta": "Qual foi o destino da Paulo depois de Atenas?",
+        "a": "Tessalônica.",
+        "b": "Roma.",
+        "c": "Corinto.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Depois disso Paulo saiu de Atenas e foi para Corinto.<br>Atos 18:1."
+    },
+    {
+        "id": 271,
+        "pergunta": "Quem jurou não comer nem beber enquanto não matassem Paulo?",
+        "a": "Os judeus.",
+        "b": "Os gregos.",
+        "c": "os romanos.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Na manhã seguinte os judeus tramaram uma conspiração e juraram solenemente que não comeriam nem beberiam enquanto não matassem Paulo. Mais de quarenta homens estavam envolvidos nessa conspiração. E, dirigindo-se aos chefes dos sacerdotes e aos líderes dos judeus, disseram: 'Juramos solenemente, sob maldição, que não comeremos nada enquanto não matarmos Paulo.<br>Atos 23:12-14."
+    },
+    {
+        "id": 272,
+        "pergunta": "Quais são as 7 igrejas que receberam as cartas em Apocalipse?",
+        "a": "éfeso, Filipo, Pérgamo, Tiatira, Creta, Filadélfia e Laodiceia.",
+        "b": "éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia.",
+        "c": "éfeso, Macedônia, Pérgamo, Filipo, Tessalônica, Filadélfia e Laodiceia.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "que dizia: 'Escreva num livro o que você vê e envie a estas sete igrejas: Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia'.<br>Apocalipse 1:11."
+    },
+    {
+        "id": 273,
+        "pergunta": "O que houve quando o Cordeiro quebrou o último selo?",
+        "a": "O Diabo foi aprisionado durante 2000 anos.",
+        "b": "Houve um sinal que arrebatou os crentes em Cristo.",
+        "c": "Houve silêncio nos céus cerca de meia hora.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Quando ele abriu o sétimo selo, houve silêncio nos céus cerca de meia hora.<br>Apocalipse 8:1."
+    },
+    {
+        "id": 274,
+        "pergunta": "Qual era a características da besta que saiu da terra?",
+        "a": "Dois chifres como cordeiro, mas que falava como dragão.",
+        "b": "Dez chifres e sete cabeças, com dez coroas, uma sobre cada chifre.",
+        "c": "Sete chifres, sete cabeças e da sua língua saía fogo.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Então vi outra besta que saía da terra, com dois chifres como cordeiro, mas que falava como dragão.<br>Apocalipse 13:11."
+    },
+    {
+        "id": 275,
+        "pergunta": "Quantas taças da ira de Deus foram derramadas em Apocalipse?",
+        "a": "6 taças.",
+        "b": "12 taças.",
+        "c": "7 taças.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Então ouvi uma forte voz que vinha do santuário e dizia aos sete anjos: 'Vão derramar sobre a terra as sete taças da ira de Deus'.<br>Apocalipse 16:1."
+    },
+    {
+        "id": 276,
+        "pergunta": "De que material era o muro da Nova Jerusalém?",
+        "a": "Ouro.",
+        "b": "Jaspe.",
+        "c": "Vidro.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "O muro era feito de jaspe e a cidade era de ouro puro, semelhante ao vidro puro.<br>Apocalipse 21:18."
+    },
+    {
+        "id": 277,
+        "pergunta": "Como era o formato da cidade Nova Jerusalém?",
+        "a": "Triangular.",
+        "b": "Formato de cruz.",
+        "c": "Quadrangular.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c.",
+        "versiculo": "A cidade era quadrangular, de comprimento e largura iguais. Ele mediu a cidade com a vara; tinha dois mil e duzentos quilômetros de comprimento; a largura e a altura eram iguais ao comprimento.<br>Apocalipse 21:16."
+    },
+    {
+        "id": 278,
+        "pergunta": "O que está escrito no últim'o versículo da Bíblia?'",
+        "a": "Eis que venho em breve. Amém.",
+        "b": "A graça do Senhor Jesus seja com todos. Amém.",
+        "c": "Eu sou o Alfa e o ômega, o Primeiro e o último, o Princípio e o Fim.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "A graça do Senhor Jesus seja com todos. Amém.<br>Apocalipse 22:21."
+    },
+    
+    {
+        "id": 279,
+        "pergunta": "Qual livro se encontra no Novo Testamento?",
+        "a": "Sofonias.",
+        "b": "Filemom.",
+        "c": "Habacuque.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b.",
+        "versiculo": "Filemom."
+    },
+    {
+        "id": 280,
+        "pergunta": "Em quais livros da Bíblia não encontramos a palavra 'Deus'?",
+        "a": "Ester e Cânticos.",
+        "b": "Ageu e Amós.",
+        "c": "Oséias e Eclesiastes.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Ester e Cânticos."
+    },
+    {
+        "id": 281,
+        "pergunta": "Qual o menor livro da Bíblia?",
+        "a": "Judas.",
+        "b": "II João.",
+        "c": "III João.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "II João contém apenas 1 capítulo e 13 versículos."
+    },
+    {
+        "id": 282,
+        "pergunta": "Quantos capítulos tem o Livro de Naum?",
+        "a": "1.",
+        "b": "7.",
+        "c": "3.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Apenas 3 capítulos."
+    },
+    {
+        "id": 283,
+        "pergunta": "O Velho Testamento reúne mais livros do que o Novo Testamento?",
+        "a": "Sim.",
+        "b": "Não.",
+        "c": "Ambos tem a mesma quantidade.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Sim, o Velho Testamento é composto por 39 livros."
+    },
+    {
+        "id": 284,
+        "pergunta": "O Livro de Atos dos Apóstolos é conhecido como.",
+        "a": "um livro histórico.",
+        "b": "um livro profético.",
+        "c": "um livro poético.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "O Livro de Atos dos Apóstolos é conhecido um livro histórico."
+    },
+    {
+        "id": 285,
+        "pergunta": "Qual é o quinto livro do Novo Testamento?",
+        "a": "Evangelho de Marcos.",
+        "b": "Carta aos Romanos.",
+        "c": "Atos dos Apóstolos.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "Atos dos Apóstolos."
+    },
+    {
+        "id": 286,
+        "pergunta": "Qual era o nome da mulher de Jó?",
+        "a": "Abigail.",
+        "b": "Dâmaris.",
+        "c": "A Bíblia não diz.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "A Bíblia não diz o nome da mulher de jó."
+    },
+    {
+        "id": 287,
+        "pergunta": "Qual das alternativas não é um livro apócrifo?",
+        "a": "Livro Enoque.",
+        "b": "Livro de Ageu.",
+        "c": "Livro de Tobias.",
+        "dificil": "DIFÍCIL",
+        "resposta": "b",
+        "versiculo": "Livro de Ageu encontra-se no Velho Testamento."
+    },
+    {
+        "id": 288,
+        "pergunta": "Qual destes livros contém mais de um capítulo?",
+        "a": "Judas.",
+        "b": "Obadias.",
+        "c": "Joel.",
+        "dificil": "DIFÍCIL",
+        "resposta": "c",
+        "versiculo": "O Livro de Joel tem 3 capítulos."
+    },
+    {
+        "id": 289,
+        "pergunta": "Qual é o versículo mais extenso da Bíblia?",
+        "a": "Ester 8: 9.",
+        "b": "Salmos 119: 43.",
+        "c": "Isaías 24: 2.",
+        "dificil": "DIFÍCIL",
+        "resposta": "a",
+        "versiculo": "Ester 8:9."
+    }
+]
