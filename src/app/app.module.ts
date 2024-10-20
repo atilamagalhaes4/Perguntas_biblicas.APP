@@ -12,11 +12,13 @@ import { SocialSharing } from '@awesome-cordova-plugins/social-sharing/ngx';
 import { base64Imagem } from 'src/assets/base64/base64';
 import { IonicStorageModule } from '@ionic/storage'
 import { SqliteStorage } from 'src/assets/providers/sqlite-storage';
-import { AdMobFree } from '@ionic-native/admob-free/ngx';
 import { ScreenOrientation } from '@awesome-cordova-plugins/screen-orientation/ngx';
 import { StatusBar } from '@awesome-cordova-plugins/status-bar/ngx';
 import { SplashScreen } from '@awesome-cordova-plugins/splash-screen/ngx';
+/*
+import { AdMobFree } from '@ionic-native/admob-free/ngx';
 import { AdmobService } from './services/admob.service';
+*/
 
 
 @NgModule({
@@ -39,9 +41,9 @@ import { AdmobService } from './services/admob.service';
     SqliteStorage,
     ScreenOrientation,
     SplashScreen,
-    StatusBar,
-    AdMobFree,
-    AdmobService
+    StatusBar
+/*    AdMobFree,
+    AdmobService*/
   ],
   bootstrap: [AppComponent],
 })

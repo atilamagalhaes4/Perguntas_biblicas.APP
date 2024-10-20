@@ -1,0 +1,17 @@
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore keystore.jks app-release.aab upload
+
+zipalign -v 4 app-release.aab pronto-para-upload.aab
+
+44029476a
+
+
+
+
+Você pode usar este comando para descobrir seu nome de alias depois de gerar sua chave.
+keytool -keystore keystore.jks -list -v
+
+
+keytool -genkeypair -alias alias_atila -keyalg RSA -keysize 2048 -validity 9125 -keystore keystore.jks
+
+keytool -export -rfc -alias alias_atila -file upload_certificate.pem -keystore keystore.jks
+

@@ -4,7 +4,7 @@ import perguntas from '../../../assets/json/perguntas.json';
 import { SocialSharing } from '@awesome-cordova-plugins/social-sharing/ngx';
 import { base64Imagem } from 'src/assets/base64/base64';
 import { Storage } from '@ionic/storage';
-import { AdmobService } from 'src/app/services/admob.service';
+/*import { AdmobService } from 'src/app/services/admob.service';*/
 
 @Component({
   selector: 'app-inicio',
@@ -14,6 +14,7 @@ import { AdmobService } from 'src/app/services/admob.service';
 export class InicioPage implements OnInit {
 
   tempoAnuncio: number = 0;
+  questoesQueJaSairam: any = [];
 
   /* opcao: pular questao errada acertar mostrar: vezes sem errar qtd acerto qtd de tentativas */
   comecou: boolean = false;
@@ -42,7 +43,7 @@ export class InicioPage implements OnInit {
     private socialSharing: SocialSharing,
     private imagens: base64Imagem,
     private alertController: AlertController,
-    private admobService: AdmobService,
+/*    private admobService: AdmobService,*/
     private storage: Storage
   ) { }
 
@@ -95,9 +96,7 @@ export class InicioPage implements OnInit {
     }
     //Se acertar
     else if (this.respostaUsuario == this.resposta) {
-
-      this.tempoAnuncio ++;
-
+      this.tempoAnuncio++;
       this.questoesRealizadas++;
       this.questoesAcertadas++;
       this.setValue("dados", { questoesRealizadas: this.questoesRealizadas, questoesAcertadas: this.questoesAcertadas });
@@ -108,9 +107,7 @@ export class InicioPage implements OnInit {
     }
     // se errar
     else {
-
-      this.tempoAnuncio ++;
-
+      this.tempoAnuncio++;
       this.questoesRealizadas++;
       //      this.questoesAcertadas++; | Se n acertar nao tem o pq aumentar
       this.setValue("dados", { questoesRealizadas: this.questoesRealizadas, questoesAcertadas: this.questoesAcertadas });
@@ -119,9 +116,10 @@ export class InicioPage implements OnInit {
       this.respostaUsuario = "";
       this.gerarpergunta();
     }
-    console.log(this.tempoAnuncio);
-    if(this.tempoAnuncio == 15){
-      this.Interstitial();
+
+    if (this.tempoAnuncio == 15) {
+      console.log("deveria mostrar o anuncio.")
+//      this.Interstitial();
       this.tempoAnuncio = 0;
     }
   }
@@ -150,15 +148,33 @@ export class InicioPage implements OnInit {
   }
 
 
+
   gerarpergunta() {
-    var _i = parseInt((Math.random() * (290 - 0) + 0 + ""));
+    // Verifica se todas as perguntas já foram usadas
+    if (this.questoesQueJaSairam.length >= this.TodasPerguntas.length) {
+      // Limpa a lista de perguntas que já saíram
+      this.questoesQueJaSairam = [];
+    }
+
+    // Variável para armazenar o índice da pergunta
+    let _i: number;
+
+    // Gere um novo índice enquanto o índice atual já estiver na lista de perguntas que já saíram
+    do {
+      _i = Math.floor(Math.random() * this.TodasPerguntas.length);
+    } while (this.questoesQueJaSairam.includes(_i));
+
+    // Adicione o índice à lista de perguntas que já saíram
+    this.questoesQueJaSairam.push(_i);
+
+    // Use o índice para pegar a pergunta
     this.id = this.TodasPerguntas[_i].id;
-    this.pergunta = this.TodasPerguntas[_i].pergunta.replace(/'/g, '"');;
-    this.a = this.TodasPerguntas[_i].a.replace(/'/g, '"');;
-    this.b = this.TodasPerguntas[_i].b.replace(/'/g, '"');;
-    this.c = this.TodasPerguntas[_i].c.replace(/'/g, '"');;
+    this.pergunta = this.TodasPerguntas[_i].pergunta.replace(/'/g, '"');
+    this.a = this.TodasPerguntas[_i].a.replace(/'/g, '"');
+    this.b = this.TodasPerguntas[_i].b.replace(/'/g, '"');
+    this.c = this.TodasPerguntas[_i].c.replace(/'/g, '"');
     this.resposta = this.TodasPerguntas[_i].resposta;
-    this.versiculo = this.TodasPerguntas[_i].versiculo.replace(/'/g, '"');;
+    this.versiculo = this.TodasPerguntas[_i].versiculo.replace(/'/g, '"');
     this.dificuldade = this.TodasPerguntas[_i].dificil;
   }
 
@@ -212,18 +228,18 @@ export class InicioPage implements OnInit {
 
 
 
+/*
+  //////////////////ADMOB//////////////////////////
 
-//////////////////ADMOB//////////////////////////
-
-    // FUNÇÃO PARA INTERSTICIAL
-    Interstitial(){
-      this.admobService.ShowInterstitial();
-      }
-    // FUNÇÃO PARA VIDEOREWARD
-    Reward(){
-      this.admobService.ShowRewardVideo();
-    }
-    banner(){
-      this.admobService.ShowBanner();
-    }
+  // FUNÇÃO PARA INTERSTICIAL
+  Interstitial() {
+    this.admobService.ShowInterstitial();
+  }
+  // FUNÇÃO PARA VIDEOREWARD
+  Reward() {
+    this.admobService.ShowRewardVideo();
+  }
+  banner() {
+    this.admobService.ShowBanner();
+  }*/
 }

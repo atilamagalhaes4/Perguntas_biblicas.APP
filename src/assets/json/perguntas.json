@@ -1252,7 +1252,7 @@
     {
         "id": 125,
         "pergunta": "Quem foi esposa do rei Assuero (Xerxes)?",
-        "a)": "Rute.",
+        "a": "Rute.",
         "b": "Ester.",
         "c": "Maria.",
         "dificil": "FÁCIL",
@@ -2789,7 +2789,6 @@
         "resposta": "b",
         "versiculo": "A graça do Senhor Jesus seja com todos. Amém.<br>Apocalipse 22:21."
     },
-    
     {
         "id": 279,
         "pergunta": "Qual livro se encontra no Novo Testamento?",
@@ -2899,5 +2898,335 @@
         "dificil": "DIFÍCIL",
         "resposta": "a",
         "versiculo": "Ester 8:9."
-    }
-]
+    },
+        {
+            "id": 290,
+            "pergunta": "Qual é o primeiro mandamento com promessa?",
+            "a": "Não matarás.",
+            "b": "Não terás outros deuses diante de mim.",
+            "c": "Honra teu pai e tua mãe.",
+            "dificil": "MÉDIA",
+            "resposta": "c",
+            "versiculo": "'Honra teu pai e tua mãe' - este é o primeiro mandamento com promessa.<br>Efésios 6:2."
+        },
+        {
+            "id": 291,
+            "pergunta": "Quem foi jogado na cova dos leões?",
+            "a": "Daniel.",
+            "b": "José.",
+            "c": "Elias.",
+            "dificil": "FÁCIL",
+            "resposta": "a",
+            "versiculo": "Então o rei deu ordens, e eles trouxeram Daniel e o jogaram na cova dos leões.<br>Daniel 6:16."
+        },
+        {
+            "id": 292,
+            "pergunta": "Qual discípulo negou Jesus três vezes?",
+            "a": "Pedro.",
+            "b": "João.",
+            "c": "Tiago.",
+            "dificil": "FÁCIL",
+            "resposta": "a",
+            "versiculo": "Mas Pedro negou outra vez, e, no mesmo instante, o galo cantou.<br>João 18:27."
+        },
+        {
+            "id": 293,
+            "pergunta": "Qual o nome do filho mais velho de Jacó?",
+            "a": "Judá.",
+            "b": "Levi.",
+            "c": "Rúben.",
+            "dificil": "MÉDIA",
+            "resposta": "c",
+            "versiculo": "Rúben, o filho mais velho de Israel.<br>Gênesis 49:3."
+        },
+        {
+            "id": 294,
+            "pergunta": "Quem construiu o templo em Jerusalém?",
+            "a": "Davi.",
+            "b": "Salomão.",
+            "c": "Saul.",
+            "dificil": "FÁCIL",
+            "resposta": "b",
+            "versiculo": "Então Salomão começou a construir o templo do Senhor em Jerusalém.<br>2 Crônicas 3:1."
+        },
+        {
+            "id": 295,
+            "pergunta": "Quem teve um sonho com uma escada que chegava ao céu?",
+            "a": "José.",
+            "b": "Jacó.",
+            "c": "Abraão.",
+            "dificil": "MÉDIA",
+            "resposta": "b",
+            "versiculo": "E teve um sonho no qual viu uma escada apoiada na terra, com o topo alcançando o céu.<br>Gênesis 28:12."
+        },
+        {
+            "id": 296,
+            "pergunta": "Quem foi o substituto de Judas Iscariotes como apóstolo?",
+            "a": "Barnabé.",
+            "b": "Matias.",
+            "c": "Silas.",
+            "dificil": "DIFÍCIL",
+            "resposta": "b",
+            "versiculo": "Então eles lançaram sortes, e a sorte caiu sobre Matias; assim ele foi acrescentado aos onze apóstolos.<br>Atos 1:26."
+        },
+        {
+            "id": 297,
+            "pergunta": "Qual era o nome do profeta que foi levado ao céu em um redemoinho?",
+            "a": "Elias.",
+            "b": "Eliseu.",
+            "c": "Ezequiel.",
+            "dificil": "MÉDIA",
+            "resposta": "a",
+            "versiculo": "De repente, enquanto caminhavam e conversavam, apareceu um carro de fogo puxado por cavalos de fogo, que os separou, e Elias foi levado ao céu num redemoinho.<br>2 Reis 2:11."
+        },
+        {
+            "id": 298,
+            "pergunta": "Quem foi a primeira mulher a ver Jesus ressuscitado?",
+            "a": "Maria, mãe de Jesus.",
+            "b": "Marta.",
+            "c": "Maria Madalena.",
+            "dificil": "FÁCIL",
+            "resposta": "c",
+            "versiculo": "Maria Madalena foi e anunciou aos discípulos: 'Eu vi o Senhor!'.<br>João 20:18."
+        },
+        {
+            "id": 299,
+            "pergunta": "Quem foi rei de Israel depois de Davi?",
+            "a": "Salomão.",
+            "b": "Saul.",
+            "c": "Jeroboão.",
+            "dificil": "FÁCIL",
+            "resposta": "a",
+            "versiculo": "Então Salomão sentou-se no trono de seu pai Davi, e o seu reino foi firmemente estabelecido.<br>1 Reis 2:12."
+        },
+        {
+            "id": 300,
+            "pergunta": "Quem foi engolido por um grande peixe?",
+            "a": "Elias.",
+            "b": "Jonas.",
+            "c": "Moisés.",
+            "dificil": "FÁCIL",
+            "resposta": "b",
+            "versiculo": "Então o Senhor enviou um grande peixe para engolir Jonas, e ele ficou dentro do peixe três dias e três noites.<br>Jonas 1:17."
+        },
+        {
+            "id": 301,
+            "pergunta": "Quem foi escolhido para substituir Moisés e conduzir o povo à terra prometida?",
+            "a": "Josué.",
+            "b": "Calebe.",
+            "c": "Arão.",
+            "dificil": "MÉDIA",
+            "resposta": "a",
+            "versiculo": "Então o Senhor disse a Moisés: 'Escolha Josué, filho de Num, um homem em quem está o Espírito, e imponha as mãos sobre ele'.<br>Números 27:18."
+        },
+        {
+            "id": 302,
+            "pergunta": "Qual juiz fez um voto imprudente que resultou em sacrificar sua própria filha?",
+            "a": "Sansão.",
+            "b": "Jefté.",
+            "c": "Débora.",
+            "dificil": "DIFÍCIL",
+            "resposta": "b",
+            "versiculo": "E Jefté fez um voto ao Senhor, dizendo: 'Se me entregares os amonitas nas mãos, aquele que sair da porta de minha casa ao meu encontro, ao voltar vitorioso dos amonitas, será do Senhor, e eu o oferecerei em holocausto'.<br>Juízes 11:30-31."
+        },
+        {
+            "id": 303,
+            "pergunta": "Quem era a mãe de Samuel?",
+            "a": "Ana.",
+            "b": "Sara.",
+            "c": "Rute.",
+            "dificil": "FÁCIL",
+            "resposta": "a",
+            "versiculo": "E no devido tempo Ana engravidou e deu à luz um filho. Ela lhe deu o nome de Samuel, dizendo: 'Eu o pedi ao Senhor'.<br>1 Samuel 1:20."
+        },
+        {
+            "id": 304,
+            "pergunta": "Qual rei teve um sonho interpretado por Daniel que envolvia uma grande estátua?",
+            "a": "Dario.",
+            "b": "Nabucodonosor.",
+            "c": "Belsazar.",
+            "dificil": "MÉDIA",
+            "resposta": "b",
+            "versiculo": "Então Daniel foi levado à presença do rei, e este lhe disse: 'Você é capaz de me contar o que vi no meu sonho e interpretá-lo?'<br>Daniel 2:26."
+        },
+        {
+            "id": 305,
+            "pergunta": "Qual dos seguintes não é um dos 12 apóstolos de Jesus?",
+            "a": "Lucas.",
+            "b": "João.",
+            "c": "Tiago.",
+            "dificil": "FÁCIL",
+            "resposta": "a",
+            "versiculo": "Jesus subiu a um monte e chamou a si aqueles que ele quis, e eles vieram. Escolheu doze, designando-os apóstolos.<br>Marcos 3:13-14."
+        },
+        {
+            "id": 306,
+            "pergunta": "Quem foi o homem mais forte mencionado na Bíblia?",
+            "a": "Davi.",
+            "b": "Sansão.",
+            "c": "Golias.",
+            "dificil": "FÁCIL",
+            "resposta": "b",
+            "versiculo": "Sansão respondeu: 'Se alguém me amarrar com sete cordas de arco novas que ainda não tenham sido secas, ficarei tão fraco quanto qualquer outro homem'.<br>Juízes 16:7."
+        },
+        {
+            "id": 307,
+            "pergunta": "Qual foi o primeiro milagre de Jesus?",
+            "a": "Curar um cego.",
+            "b": "Multiplicar pães e peixes.",
+            "c": "Transformar água em vinho.",
+            "dificil": "FÁCIL",
+            "resposta": "c",
+            "versiculo": "Este sinal miraculoso, em Caná da Galiléia, foi o primeiro que Jesus realizou.<br>João 2:11."
+        },
+        {
+            "id": 308,
+            "pergunta": "Quem foi lançada em um poço por seu pai devido a uma promessa feita a Deus?",
+            "a": "Ana.",
+            "b": "Jefté.",
+            "c": "Sara.",
+            "dificil": "DIFÍCIL",
+            "resposta": "b",
+            "versiculo": "Quando ele viu sua filha, rasgou suas vestes e disse: 'Ah, minha filha! Você me arrasou!'.<br>Juízes 11:35."
+        },
+        {
+            "id": 309,
+            "pergunta": "Qual foi a cidade destruída por fogo e enxofre junto com Gomorra?",
+            "a": "Sodoma.",
+            "b": "Jericó.",
+            "c": "Nínive.",
+            "dificil": "FÁCIL",
+            "resposta": "a",
+            "versiculo": "Então o Senhor fez chover enxofre ardente sobre Sodoma e Gomorra.<br>Gênesis 19:24."
+        },
+        {
+            "id": 310,
+            "pergunta": "Quem foi o pai de Salomão?",
+            "a": "Saul.",
+            "b": "Samuel.",
+            "c": "Davi.",
+            "dificil": "FÁCIL",
+            "resposta": "c",
+            "versiculo": "Davi gerou Salomão, cuja mãe tinha sido mulher de Urias.<br>Mateus 1:6."
+        },
+        {
+            "id": 311,
+            "pergunta": "Quem escreveu o livro de Apocalipse?",
+            "a": "Pedro.",
+            "b": "Paulo.",
+            "c": "João.",
+            "dificil": "MÉDIA",
+            "resposta": "c",
+            "versiculo": "A revelação de Jesus Cristo, que Deus lhe deu para mostrar aos seus servos o que em breve há de acontecer. Ele enviou o seu anjo para torná-la conhecida ao seu servo João.<br>Apocalipse 1:1."
+        },
+        {
+            "id": 312,
+            "pergunta": "Quem foi o profeta que desafiou os profetas de Baal no Monte Carmelo?",
+            "a": "Elias.",
+            "b": "Eliseu.",
+            "c": "Isaías.",
+            "dificil": "MÉDIA",
+            "resposta": "a",
+            "versiculo": "Elias se aproximou de todo o povo e disse: 'Até quando vocês vão oscilar para um lado e para o outro? Se o Senhor é Deus, sigam-no'.<br>1 Reis 18:21."
+        },
+        {
+            "id": 313,
+            "pergunta": "Quem liderou a construção dos muros de Jerusalém depois do exílio?",
+            "a": "Neemias.",
+            "b": "Esdras.",
+            "c": "Zorobabel.",
+            "dificil": "MÉDIA",
+            "resposta": "a",
+            "versiculo": "Eu lhes disse: 'Vocês estão vendo a miséria em que estamos; Jerusalém está em ruínas e suas portas foram destruídas pelo fogo. Venham, vamos reconstruir o muro de Jerusalém'.<br>Neemias 2:17."
+        },
+        {
+            "id": 314,
+            "pergunta": "Quem foi a mulher estrangeira que se tornou a bisavó de Davi?",
+            "a": "Débora.",
+            "b": "Rute.",
+            "c": "Raquel.",
+            "dificil": "MÉDIA",
+            "resposta": "b",
+            "versiculo": "Assim Boaz casou-se com Rute, e ela se tornou sua mulher. Boaz teve relações com ela, e o Senhor concedeu que ela engravidasse, e ela deu à luz um filho.<br>Rute 4:13."
+        },
+        {
+            "id": 315,
+            "pergunta": "Qual apóstolo foi conhecido como o 'amado discípulo'?",
+            "a": "Pedro.",
+            "b": "João.",
+            "c": "Tiago.",
+            "dificil": "FÁCIL",
+            "resposta": "b",
+            "versiculo": "Um deles, o discípulo a quem Jesus amava, estava reclinado ao lado dele.<br>João 13:23."
+        },
+        {
+            "id": 316,
+            "pergunta": "Quem foi a mãe de Ismael?",
+            "a": "Sara.",
+            "b": "Rebeca.",
+            "c": "Hagar.",
+            "dificil": "MÉDIA",
+            "resposta": "c",
+            "versiculo": "O anjo do Senhor disse ainda: 'Você está grávida e terá um filho. Dará a ele o nome de Ismael, porque o Senhor a ouviu em seu sofrimento'.<br>Gênesis 16:11."
+        },
+        {
+            "id": 317,
+            "pergunta": "Qual foi a segunda praga que Deus enviou ao Egito?",
+            "a": "Rãs.",
+            "b": "Piolhos.",
+            "c": "Moscas.",
+            "dificil": "MÉDIA",
+            "resposta": "a",
+            "versiculo": "Então o Senhor disse a Moisés: 'Vá ao faraó e diga-lhe: Assim diz o Senhor: Deixe ir o meu povo, para que me cultue. Se você não deixar, castigarei todo o seu território com praga de rãs'.<br>Êxodo 8:1-2."
+        },
+        {
+            "id": 318,
+            "pergunta": "Quem foi vendido por seus irmãos como escravo?",
+            "a": "José.",
+            "b": "Benjamim.",
+            "c": "Judá.",
+            "dificil": "FÁCIL",
+            "resposta": "a",
+            "versiculo": "E quando os mercadores ismaelitas de Midiã se aproximaram, os irmãos de José o tiraram do poço e o venderam por vinte peças de prata aos ismaelitas, que o levaram ao Egito.<br>Gênesis 37:28."
+        },
+        {
+            "id": 319,
+            "pergunta": "Qual foi o sinal da aliança entre Deus e Noé após o dilúvio?",
+            "a": "Arco-íris.",
+            "b": "Estrela.",
+            "c": "Pomba.",
+            "dificil": "FÁCIL",
+            "resposta": "a",
+            "versiculo": "Sempre que eu trouxer nuvens sobre a terra e o arco-íris aparecer nas nuvens, lembrarei da minha aliança com você e com todas as criaturas vivas de todas as espécies.<br>Gênesis 9:14-15."
+        },
+        {
+            "id": 320,
+            "pergunta": "Quem interpretou o sonho de Faraó sobre sete vacas gordas e sete vacas magras?",
+            "a": "José.",
+            "b": "Daniel.",
+            "c": "Moises.",
+            "dificil": "MÉDIA",
+            "resposta": "a",
+            "versiculo": "Então José disse ao faraó: 'O sonho do faraó é um só. Deus revelou ao faraó o que ele está prestes a fazer'.<br>Gênesis 41:25."
+        },
+        {
+            "id": 321,
+            "pergunta": "Quem foi o profeta que desafiou o rei Acabe e profetizou uma seca?",
+            "a": "Eliseu.",
+            "b": "Isaías.",
+            "c": "Elias.",
+            "dificil": "MÉDIA",
+            "resposta": "c",
+            "versiculo": "Ora, Elias, de Tisbe, em Gileade, disse a Acabe: 'Juro pelo nome do Senhor, o Deus de Israel, a quem sirvo, que não cairá orvalho nem chuva nos próximos anos, exceto mediante a minha palavra'.<br>1 Reis 17:1."
+        },
+        {
+            "id": 322,
+            "pergunta": "Qual foi a profissão de Mateus antes de se tornar um apóstolo?",
+            "a": "Pescador.",
+            "b": "Cobrador de impostos.",
+            "c": "Pastor.",
+            "dificil": "FÁCIL",
+            "resposta": "b",
+            "versiculo": "Depois disso, Jesus saiu e viu um publicano, chamado Levi, sentado na coletoria. <br>Ele lhe disse: ― Siga‑me. Levi se levantou, deixou tudo e o seguiu."
+        }
+        ]
